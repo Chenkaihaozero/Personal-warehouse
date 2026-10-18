@@ -1,0 +1,232 @@
+[
+ {
+  "id": "express",
+  "name": "星穹列车",
+  "nameEn": "Astral Express",
+  "kind": "faction-line",
+  "order": 0,
+  "description": "修复的列车上，无名客们沿着星轨驶向一个又一个世界。他们没有故乡，只有彼此——列车所至之处，便是新的故事开始的地方。",
+  "theme": {
+   "primary": "#fbbf24",
+   "accent": "#fde68a",
+   "glow": "rgba(251,191,36,0.35)",
+   "pattern": "tex-express",
+   "tagline": "银轨绵延，无名客的旅途没有终点"
+  },
+  "characters": [
+   406,
+   407,
+   3127,
+   3124,
+   48,
+   560,
+   411,
+   3121,
+   4174,
+   4442,
+   7047,
+   7484
+  ]
+ },
+ {
+  "id": "herta",
+  "name": "黑塔空间站",
+  "nameEn": "Herta Space Station",
+  "kind": "region",
+  "order": 1,
+  "description": "天才俱乐部第 83 位成员黑塔的私人造物，宇宙中的一座巨型实验室。故事的起点：星核在此被植入，开拓者在此睁开双眼。",
+  "theme": {
+   "primary": "#7dd3fc",
+   "accent": "#a5f3fc",
+   "glow": "rgba(125,211,252,0.35)",
+   "pattern": "tex-herta",
+   "tagline": "环形回廊与永远不会安静下来的观测室"
+  },
+  "characters": [
+   380,
+   52,
+   49,
+   1085,
+   1298,
+   1874,
+   4439,
+   7044
+  ]
+ },
+ {
+  "id": "belobog",
+  "name": "贝洛伯格",
+  "nameEn": "Belobog",
+  "kind": "region",
+  "order": 2,
+  "description": "雅利洛-VI 上最后的人类城邦。永冻的寒潮封死了地表，上下层区的裂缝割开了七百年的历史，而柴可夫斯基的雪落在每个人肩上。",
+  "theme": {
+   "primary": "#a5d8ff",
+   "accent": "#e0f2fe",
+   "glow": "rgba(165,216,255,0.35)",
+   "pattern": "tex-belobog",
+   "tagline": "冰雪封锁的城邦，与不肯熄灭的炉火"
+  },
+  "characters": [
+   453,
+   76,
+   424,
+   414,
+   46,
+   422,
+   386,
+   317,
+   423,
+   1325,
+   1543,
+   1709
+  ]
+ },
+ {
+  "id": "xianzhou",
+  "name": "仙舟「罗浮」",
+  "nameEn": "The Xianzhou Luofu",
+  "kind": "region",
+  "order": 3,
+  "description": "六艘巨舰载着「丰饶」赐予的长生之躯航行星海。云骑军镇守长乐天，太卜司窥测天机，而长生种要面对的敌人，往往是自己活过的那些年。",
+  "theme": {
+   "primary": "#5eead4",
+   "accent": "#fcd34d",
+   "glow": "rgba(94,234,212,0.35)",
+   "pattern": "tex-xianzhou",
+   "tagline": "云海行舟，长生是恩赐也是枷锁"
+  },
+  "characters": [
+   564,
+   497,
+   412,
+   561,
+   565,
+   389,
+   1188,
+   1187,
+   1214,
+   1472,
+   1646,
+   1708,
+   1710,
+   1712,
+   1717,
+   1872,
+   3058,
+   3056,
+   3501,
+   3505,
+   3502,
+   4175,
+   6746,
+   7155
+  ]
+ },
+ {
+  "id": "penacony",
+  "name": "匹诺康尼",
+  "nameEn": "Penacony",
+  "kind": "region",
+  "order": 4,
+  "description": "「家族」经营的梦境之城，现实中最华丽的度假胜地。客人们在此做梦，却有人在梦里醒来——十二场梦境之后，「秩序」的美梦结束了。",
+  "theme": {
+   "primary": "#f0abfc",
+   "accent": "#fbbf24",
+   "glow": "rgba(240,171,252,0.35)",
+   "pattern": "tex-penacony",
+   "tagline": "欢迎来到梦境，请务必记住要醒来"
+  },
+  "characters": [
+   1714,
+   1873,
+   2082,
+   2086,
+   2087,
+   2300,
+   2304,
+   2302,
+   2524,
+   2526,
+   2674,
+   2675,
+   3732,
+   6025,
+   7726,
+   7725
+  ]
+ },
+ {
+  "id": "amphoreus",
+  "name": "翁法罗斯",
+  "nameEn": "Amphoreus",
+  "kind": "region",
+  "order": 5,
+  "description": "记忆与黄金的国度，黑潮自海角涌来，泰坦疯狂。十三位黄金裔执掌火种，踏上逐火之旅，只为在永夜之后为世界留下第一缕曙光。",
+  "theme": {
+   "primary": "#fcd34d",
+   "accent": "#c4b5fd",
+   "glow": "rgba(252,211,77,0.35)",
+   "pattern": "tex-amphoreus",
+   "tagline": "逐火之旅，此身即为明日的薪柴"
+  },
+  "characters": [
+   4440,
+   5107,
+   5108,
+   4917,
+   5109,
+   4608,
+   4609,
+   4916,
+   5737,
+   5582,
+   5583,
+   5851,
+   5736
+  ]
+ },
+ {
+  "id": "erxiang",
+  "name": "二相乐园",
+  "nameEn": "Twin-Faced Paradise",
+  "kind": "region",
+  "order": 6,
+  "description": "名为「欢愉」的乐园，梦核废墟、稀有蘑菇妖怪与永远不会结束的直播。谁被看见，谁被喜欢，谁就是正确答案。",
+  "theme": {
+   "primary": "#c084fc",
+   "accent": "#22d3ee",
+   "glow": "rgba(192,132,252,0.35)",
+   "pattern": "tex-erxiang",
+   "tagline": "流量即真理，狂欢直到世界尽头"
+  },
+  "characters": [
+   6814,
+   6747,
+   7045,
+   8099,
+   7935
+  ]
+ },
+ {
+  "id": "fate",
+  "name": "Fate 联动线",
+  "nameEn": "Fate Collaboration",
+  "kind": "crossover",
+  "order": 7,
+  "description": "来自宇宙之外，那个存在着魔法与魔术的世界。圣杯战争的参加者因次元裂隙来到星穹铁道——与翁法罗斯无关，他们是另一条线上的来客。",
+  "theme": {
+   "primary": "#ef4444",
+   "accent": "#fbbf24",
+   "glow": "rgba(239,68,68,0.35)",
+   "pattern": "tex-fate",
+   "tagline": "来自异界的英灵，与另一场圣杯战争"
+  },
+  "characters": [
+   5338,
+   5339,
+   7499,
+   7500
+  ]
+ }
+]

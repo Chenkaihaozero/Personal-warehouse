@@ -1,0 +1,4 @@
+# pnpm 10+ 的构建脚本白名单集中在这里（pnpm 12 起 package.json 的 "pnpm" 字段不再被读取）。
+# 允许 esbuild 执行 postinstall；否则 pnpm install 会以 ERR_PNPM_IGNORED_BUILDS 失败。
+allowBuilds:
+  esbuild: true

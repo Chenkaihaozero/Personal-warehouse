@@ -1,0 +1,37 @@
+{
+  "id": 3058,
+  "name": "椒丘",
+  "nameEn": "Jiaoqiu",
+  "title": "椒丘 · 星穹列车的同行者",
+  "aliases": [],
+  "rarity": "5星",
+  "rarityNum": 5,
+  "element": "火",
+  "path": "虚无",
+  "board": "xianzhou",
+  "boardName": "仙舟「罗浮」",
+  "region": "xianzhou",
+  "faction": "xianzhou-alliance",
+  "factionName": "仙舟联盟",
+  "affiliation": null,
+  "subFaction": null,
+  "avatar": "/avatars/3058.png",
+  "intro": "",
+  "stories": [],
+  "theme": {
+    "primaryColor": "#fb923c",
+    "accentColor": "#fbbf24",
+    "backgroundStyle": "tex-xianzhou",
+    "pattern": "pat-nihility",
+    "glow": "251 146 60"
+  },
+  "tags": [
+    "属性/火",
+    "命途/虚无",
+    "星级/五星"
+  ],
+  "releaseDate": null,
+  "orderDate": "2024-07-31",
+  "orderDateEstimated": true,
+  "variantOf": null
+}

@@ -1,0 +1,3663 @@
+{
+ "nodes": [
+  {
+   "id": 5108,
+   "name": "风堇",
+   "avatar": "/avatars/5108.png",
+   "external": false,
+   "reason": null,
+   "faction": "chrysos-heirs",
+   "factionName": "翁法罗斯黄金裔",
+   "factionColor": "#fcd34d",
+   "element": "风",
+   "board": "amphoreus",
+   "boardName": "翁法罗斯",
+   "degree": 9
+  },
+  {
+   "id": 4440,
+   "name": "阿格莱雅",
+   "avatar": "/avatars/4440.png",
+   "external": false,
+   "reason": null,
+   "faction": "chrysos-heirs",
+   "factionName": "翁法罗斯黄金裔",
+   "factionColor": "#fcd34d",
+   "element": "雷",
+   "board": "amphoreus",
+   "boardName": "翁法罗斯",
+   "degree": 12
+  },
+  {
+   "id": 4608,
+   "name": "缇宝",
+   "avatar": "/avatars/4608.png",
+   "external": false,
+   "reason": null,
+   "faction": "chrysos-heirs",
+   "factionName": "翁法罗斯黄金裔",
+   "factionColor": "#fcd34d",
+   "element": "量子",
+   "board": "amphoreus",
+   "boardName": "翁法罗斯",
+   "degree": 12
+  },
+  {
+   "id": 5107,
+   "name": "白厄",
+   "avatar": "/avatars/5107.png",
+   "external": false,
+   "reason": null,
+   "faction": "chrysos-heirs",
+   "factionName": "翁法罗斯黄金裔",
+   "factionColor": "#fcd34d",
+   "element": "物理",
+   "board": "amphoreus",
+   "boardName": "翁法罗斯",
+   "degree": 10
+  },
+  {
+   "id": 4916,
+   "name": "遐蝶",
+   "avatar": "/avatars/4916.png",
+   "external": false,
+   "reason": null,
+   "faction": "chrysos-heirs",
+   "factionName": "翁法罗斯黄金裔",
+   "factionColor": "#fcd34d",
+   "element": "量子",
+   "board": "amphoreus",
+   "boardName": "翁法罗斯",
+   "degree": 10
+  },
+  {
+   "id": 4917,
+   "name": "那刻夏",
+   "avatar": "/avatars/4917.png",
+   "external": false,
+   "reason": null,
+   "faction": "chrysos-heirs",
+   "factionName": "翁法罗斯黄金裔",
+   "factionColor": "#fcd34d",
+   "element": "风",
+   "board": "amphoreus",
+   "boardName": "翁法罗斯",
+   "degree": 7
+  },
+  {
+   "id": 3124,
+   "name": "开拓者·毁灭",
+   "avatar": "/avatars/3124.png",
+   "external": false,
+   "reason": null,
+   "faction": "express",
+   "factionName": "星穹列车",
+   "factionColor": "#fbbf24",
+   "element": "物理",
+   "board": "express",
+   "boardName": "星穹列车",
+   "degree": 25
+  },
+  {
+   "id": 5737,
+   "name": "丹恒•腾荒",
+   "avatar": "/avatars/5737.png",
+   "external": false,
+   "reason": null,
+   "faction": "chrysos-heirs",
+   "factionName": "翁法罗斯黄金裔",
+   "factionColor": "#fcd34d",
+   "element": "物理",
+   "board": "amphoreus",
+   "boardName": "翁法罗斯",
+   "degree": 8
+  },
+  {
+   "id": 5109,
+   "name": "赛飞儿",
+   "avatar": "/avatars/5109.png",
+   "external": false,
+   "reason": null,
+   "faction": "chrysos-heirs",
+   "factionName": "翁法罗斯黄金裔",
+   "factionColor": "#fcd34d",
+   "element": "量子",
+   "board": "amphoreus",
+   "boardName": "翁法罗斯",
+   "degree": 8
+  },
+  {
+   "id": 5851,
+   "name": "昔涟",
+   "avatar": "/avatars/5851.png",
+   "external": false,
+   "reason": null,
+   "faction": "chrysos-heirs",
+   "factionName": "翁法罗斯黄金裔",
+   "factionColor": "#fcd34d",
+   "element": "冰",
+   "board": "amphoreus",
+   "boardName": "翁法罗斯",
+   "degree": 11
+  },
+  {
+   "id": 5583,
+   "name": "刻律德菈",
+   "avatar": "/avatars/5583.png",
+   "external": false,
+   "reason": null,
+   "faction": "chrysos-heirs",
+   "factionName": "翁法罗斯黄金裔",
+   "factionColor": "#fcd34d",
+   "element": "风",
+   "board": "amphoreus",
+   "boardName": "翁法罗斯",
+   "degree": 5
+  },
+  {
+   "id": 5582,
+   "name": "海瑟音",
+   "avatar": "/avatars/5582.png",
+   "external": false,
+   "reason": null,
+   "faction": "chrysos-heirs",
+   "factionName": "翁法罗斯黄金裔",
+   "factionColor": "#fcd34d",
+   "element": "物理",
+   "board": "amphoreus",
+   "boardName": "翁法罗斯",
+   "degree": 6
+  },
+  {
+   "id": 4609,
+   "name": "万敌",
+   "avatar": "/avatars/4609.png",
+   "external": false,
+   "reason": null,
+   "faction": "chrysos-heirs",
+   "factionName": "翁法罗斯黄金裔",
+   "factionColor": "#fcd34d",
+   "element": "虚数",
+   "board": "amphoreus",
+   "boardName": "翁法罗斯",
+   "degree": 7
+  },
+  {
+   "id": 5736,
+   "name": "长夜月",
+   "avatar": "/avatars/5736.png",
+   "external": false,
+   "reason": null,
+   "faction": "chrysos-heirs",
+   "factionName": "翁法罗斯黄金裔",
+   "factionColor": "#fcd34d",
+   "element": "冰",
+   "board": "amphoreus",
+   "boardName": "翁法罗斯",
+   "degree": 3
+  },
+  {
+   "id": 48,
+   "name": "三月七",
+   "avatar": "/avatars/48.png",
+   "external": false,
+   "reason": null,
+   "faction": "express",
+   "factionName": "星穹列车",
+   "factionColor": "#fbbf24",
+   "element": "冰",
+   "board": "express",
+   "boardName": "星穹列车",
+   "degree": 4
+  },
+  {
+   "id": 407,
+   "name": "姬子",
+   "avatar": "/avatars/407.png",
+   "external": false,
+   "reason": null,
+   "faction": "express",
+   "factionName": "星穹列车",
+   "factionColor": "#fbbf24",
+   "element": "火",
+   "board": "express",
+   "boardName": "星穹列车",
+   "degree": 4
+  },
+  {
+   "id": 560,
+   "name": "瓦尔特",
+   "avatar": "/avatars/560.png",
+   "external": false,
+   "reason": null,
+   "faction": "express",
+   "factionName": "星穹列车",
+   "factionColor": "#fbbf24",
+   "element": "虚数",
+   "board": "express",
+   "boardName": "星穹列车",
+   "degree": 3
+  },
+  {
+   "id": 406,
+   "name": "丹恒",
+   "avatar": "/avatars/406.png",
+   "external": false,
+   "reason": null,
+   "faction": "express",
+   "factionName": "星穹列车",
+   "factionColor": "#fbbf24",
+   "element": "风",
+   "board": "express",
+   "boardName": "星穹列车",
+   "degree": 8
+  },
+  {
+   "id": 4174,
+   "name": "星期日",
+   "avatar": "/avatars/4174.png",
+   "external": false,
+   "reason": null,
+   "faction": "express",
+   "factionName": "星穹列车",
+   "factionColor": "#fbbf24",
+   "element": "虚数",
+   "board": "express",
+   "boardName": "星穹列车",
+   "degree": 3
+  },
+  {
+   "id": 2524,
+   "name": "知更鸟",
+   "avatar": "/avatars/2524.png",
+   "external": false,
+   "reason": null,
+   "faction": "penacony-family",
+   "factionName": "匹诺康尼家族",
+   "factionColor": "#f0abfc",
+   "element": "物理",
+   "board": "penacony",
+   "boardName": "匹诺康尼",
+   "degree": 1
+  },
+  {
+   "id": 1298,
+   "name": "卡芙卡",
+   "avatar": "/avatars/1298.png",
+   "external": false,
+   "reason": null,
+   "faction": "stellar-hunters",
+   "factionName": "星核猎手",
+   "factionColor": "#f472b6",
+   "element": "雷",
+   "board": "herta",
+   "boardName": "黑塔空间站",
+   "degree": 4
+  },
+  {
+   "id": 1085,
+   "name": "银狼",
+   "avatar": "/avatars/1085.png",
+   "external": false,
+   "reason": null,
+   "faction": "stellar-hunters",
+   "factionName": "星核猎手",
+   "factionColor": "#f472b6",
+   "element": "量子",
+   "board": "herta",
+   "boardName": "黑塔空间站",
+   "degree": 3
+  },
+  {
+   "id": 1214,
+   "name": "刃",
+   "avatar": "/avatars/1214.png",
+   "external": false,
+   "reason": null,
+   "faction": "stellar-hunters",
+   "factionName": "星核猎手",
+   "factionColor": "#f472b6",
+   "element": "风",
+   "board": "xianzhou",
+   "boardName": "仙舟「罗浮」",
+   "degree": 6
+  },
+  {
+   "id": 2674,
+   "name": "流萤",
+   "avatar": "/avatars/2674.png",
+   "external": false,
+   "reason": null,
+   "faction": "stellar-hunters",
+   "factionName": "星核猎手",
+   "factionColor": "#f472b6",
+   "element": "火",
+   "board": "penacony",
+   "boardName": "匹诺康尼",
+   "degree": 5
+  },
+  {
+   "id": 1708,
+   "name": "镜流",
+   "avatar": "/avatars/1708.png",
+   "external": false,
+   "reason": null,
+   "faction": "xianzhou-alliance",
+   "factionName": "仙舟联盟",
+   "factionColor": "#5eead4",
+   "element": "冰",
+   "board": "xianzhou",
+   "boardName": "仙舟「罗浮」",
+   "degree": 4
+  },
+  {
+   "id": 389,
+   "name": "景元",
+   "avatar": "/avatars/389.png",
+   "external": false,
+   "reason": null,
+   "faction": "xianzhou-alliance",
+   "factionName": "仙舟联盟",
+   "factionColor": "#5eead4",
+   "element": "雷",
+   "board": "xianzhou",
+   "boardName": "仙舟「罗浮」",
+   "degree": 8
+  },
+  {
+   "id": 317,
+   "name": "希儿",
+   "avatar": "/avatars/317.png",
+   "external": false,
+   "reason": null,
+   "faction": "belobog",
+   "factionName": "贝洛伯格",
+   "factionColor": "#a5d8ff",
+   "element": "量子",
+   "board": "belobog",
+   "boardName": "贝洛伯格",
+   "degree": 3
+  },
+  {
+   "id": 453,
+   "name": "布洛妮娅",
+   "avatar": "/avatars/453.png",
+   "external": false,
+   "reason": null,
+   "faction": "belobog",
+   "factionName": "贝洛伯格",
+   "factionColor": "#a5d8ff",
+   "element": "风",
+   "board": "belobog",
+   "boardName": "贝洛伯格",
+   "degree": 4
+  },
+  {
+   "id": 424,
+   "name": "杰帕德",
+   "avatar": "/avatars/424.png",
+   "external": false,
+   "reason": null,
+   "faction": "belobog",
+   "factionName": "贝洛伯格",
+   "factionColor": "#a5d8ff",
+   "element": "冰",
+   "board": "belobog",
+   "boardName": "贝洛伯格",
+   "degree": 4
+  },
+  {
+   "id": 423,
+   "name": "希露瓦",
+   "avatar": "/avatars/423.png",
+   "external": false,
+   "reason": null,
+   "faction": "belobog",
+   "factionName": "贝洛伯格",
+   "factionColor": "#a5d8ff",
+   "element": "雷",
+   "board": "belobog",
+   "boardName": "贝洛伯格",
+   "degree": 2
+  },
+  {
+   "id": 1543,
+   "name": "玲可",
+   "avatar": "/avatars/1543.png",
+   "external": false,
+   "reason": null,
+   "faction": "belobog",
+   "factionName": "贝洛伯格",
+   "factionColor": "#a5d8ff",
+   "element": "量子",
+   "board": "belobog",
+   "boardName": "贝洛伯格",
+   "degree": 2
+  },
+  {
+   "id": 422,
+   "name": "佩拉",
+   "avatar": "/avatars/422.png",
+   "external": false,
+   "reason": null,
+   "faction": "belobog",
+   "factionName": "贝洛伯格",
+   "factionColor": "#a5d8ff",
+   "element": "冰",
+   "board": "belobog",
+   "boardName": "贝洛伯格",
+   "degree": 1
+  },
+  {
+   "id": 46,
+   "name": "娜塔莎",
+   "avatar": "/avatars/46.png",
+   "external": false,
+   "reason": null,
+   "faction": "belobog",
+   "factionName": "贝洛伯格",
+   "factionColor": "#a5d8ff",
+   "element": "物理",
+   "board": "belobog",
+   "boardName": "贝洛伯格",
+   "degree": 1
+  },
+  {
+   "id": 76,
+   "name": "虎克",
+   "avatar": "/avatars/76.png",
+   "external": false,
+   "reason": null,
+   "faction": "belobog",
+   "factionName": "贝洛伯格",
+   "factionColor": "#a5d8ff",
+   "element": "火",
+   "board": "belobog",
+   "boardName": "贝洛伯格",
+   "degree": 1
+  },
+  {
+   "id": 1325,
+   "name": "卢卡",
+   "avatar": "/avatars/1325.png",
+   "external": false,
+   "reason": null,
+   "faction": "belobog",
+   "factionName": "贝洛伯格",
+   "factionColor": "#a5d8ff",
+   "element": "物理",
+   "board": "belobog",
+   "boardName": "贝洛伯格",
+   "degree": 1
+  },
+  {
+   "id": 386,
+   "name": "桑博",
+   "avatar": "/avatars/386.png",
+   "external": false,
+   "reason": null,
+   "faction": "belobog",
+   "factionName": "贝洛伯格",
+   "factionColor": "#a5d8ff",
+   "element": "风",
+   "board": "belobog",
+   "boardName": "贝洛伯格",
+   "degree": 2
+  },
+  {
+   "id": 1709,
+   "name": "托帕&账账",
+   "avatar": "/avatars/1709.png",
+   "external": false,
+   "reason": null,
+   "faction": "ipc",
+   "factionName": "星际和平公司",
+   "factionColor": "#facc15",
+   "element": "火",
+   "board": "belobog",
+   "boardName": "贝洛伯格",
+   "degree": 3
+  },
+  {
+   "id": 565,
+   "name": "彦卿",
+   "avatar": "/avatars/565.png",
+   "external": false,
+   "reason": null,
+   "faction": "xianzhou-alliance",
+   "factionName": "仙舟联盟",
+   "factionColor": "#5eead4",
+   "element": "冰",
+   "board": "xianzhou",
+   "boardName": "仙舟「罗浮」",
+   "degree": 2
+  },
+  {
+   "id": 1646,
+   "name": "符玄",
+   "avatar": "/avatars/1646.png",
+   "external": false,
+   "reason": null,
+   "faction": "xianzhou-alliance",
+   "factionName": "仙舟联盟",
+   "factionColor": "#5eead4",
+   "element": "量子",
+   "board": "xianzhou",
+   "boardName": "仙舟「罗浮」",
+   "degree": 2
+  },
+  {
+   "id": 3502,
+   "name": "灵砂",
+   "avatar": "/avatars/3502.png",
+   "external": false,
+   "reason": null,
+   "faction": "xianzhou-alliance",
+   "factionName": "仙舟联盟",
+   "factionColor": "#5eead4",
+   "element": "火",
+   "board": "xianzhou",
+   "boardName": "仙舟「罗浮」",
+   "degree": 1
+  },
+  {
+   "id": 3501,
+   "name": "飞霄",
+   "avatar": "/avatars/3501.png",
+   "external": false,
+   "reason": null,
+   "faction": "xianzhou-alliance",
+   "factionName": "仙舟联盟",
+   "factionColor": "#5eead4",
+   "element": "风",
+   "board": "xianzhou",
+   "boardName": "仙舟「罗浮」",
+   "degree": 3
+  },
+  {
+   "id": 3505,
+   "name": "貊泽",
+   "avatar": "/avatars/3505.png",
+   "external": false,
+   "reason": null,
+   "faction": "xianzhou-alliance",
+   "factionName": "仙舟联盟",
+   "factionColor": "#5eead4",
+   "element": "雷",
+   "board": "xianzhou",
+   "boardName": "仙舟「罗浮」",
+   "degree": 1
+  },
+  {
+   "id": 3058,
+   "name": "椒丘",
+   "avatar": "/avatars/3058.png",
+   "external": false,
+   "reason": null,
+   "faction": "xianzhou-alliance",
+   "factionName": "仙舟联盟",
+   "factionColor": "#5eead4",
+   "element": "火",
+   "board": "xianzhou",
+   "boardName": "仙舟「罗浮」",
+   "degree": 1
+  },
+  {
+   "id": 1187,
+   "name": "驭空",
+   "avatar": "/avatars/1187.png",
+   "external": false,
+   "reason": null,
+   "faction": "xianzhou-alliance",
+   "factionName": "仙舟联盟",
+   "factionColor": "#5eead4",
+   "element": "虚数",
+   "board": "xianzhou",
+   "boardName": "仙舟「罗浮」",
+   "degree": 1
+  },
+  {
+   "id": 561,
+   "name": "停云",
+   "avatar": "/avatars/561.png",
+   "external": false,
+   "reason": null,
+   "faction": "xianzhou-alliance",
+   "factionName": "仙舟联盟",
+   "factionColor": "#5eead4",
+   "element": "雷",
+   "board": "xianzhou",
+   "boardName": "仙舟「罗浮」",
+   "degree": 2
+  },
+  {
+   "id": 497,
+   "name": "青雀",
+   "avatar": "/avatars/497.png",
+   "external": false,
+   "reason": null,
+   "faction": "xianzhou-alliance",
+   "factionName": "仙舟联盟",
+   "factionColor": "#5eead4",
+   "element": "量子",
+   "board": "xianzhou",
+   "boardName": "仙舟「罗浮」",
+   "degree": 1
+  },
+  {
+   "id": 1872,
+   "name": "雪衣",
+   "avatar": "/avatars/1872.png",
+   "external": false,
+   "reason": null,
+   "faction": "xianzhou-alliance",
+   "factionName": "仙舟联盟",
+   "factionColor": "#5eead4",
+   "element": "量子",
+   "board": "xianzhou",
+   "boardName": "仙舟「罗浮」",
+   "degree": 2
+  },
+  {
+   "id": 1712,
+   "name": "藿藿",
+   "avatar": "/avatars/1712.png",
+   "external": false,
+   "reason": null,
+   "faction": "xianzhou-alliance",
+   "factionName": "仙舟联盟",
+   "factionColor": "#5eead4",
+   "element": "风",
+   "board": "xianzhou",
+   "boardName": "仙舟「罗浮」",
+   "degree": 1
+  },
+  {
+   "id": 1717,
+   "name": "寒鸦",
+   "avatar": "/avatars/1717.png",
+   "external": false,
+   "reason": null,
+   "faction": "xianzhou-alliance",
+   "factionName": "仙舟联盟",
+   "factionColor": "#5eead4",
+   "element": "物理",
+   "board": "xianzhou",
+   "boardName": "仙舟「罗浮」",
+   "degree": 1
+  },
+  {
+   "id": 412,
+   "name": "素裳",
+   "avatar": "/avatars/412.png",
+   "external": false,
+   "reason": null,
+   "faction": "xianzhou-alliance",
+   "factionName": "仙舟联盟",
+   "factionColor": "#5eead4",
+   "element": "物理",
+   "board": "xianzhou",
+   "boardName": "仙舟「罗浮」",
+   "degree": 1
+  },
+  {
+   "id": 1710,
+   "name": "桂乃芬",
+   "avatar": "/avatars/1710.png",
+   "external": false,
+   "reason": null,
+   "faction": "xianzhou-alliance",
+   "factionName": "仙舟联盟",
+   "factionColor": "#5eead4",
+   "element": "火",
+   "board": "xianzhou",
+   "boardName": "仙舟「罗浮」",
+   "degree": 2
+  },
+  {
+   "id": 564,
+   "name": "白露",
+   "avatar": "/avatars/564.png",
+   "external": false,
+   "reason": null,
+   "faction": "xianzhou-alliance",
+   "factionName": "仙舟联盟",
+   "factionColor": "#5eead4",
+   "element": "雷",
+   "board": "xianzhou",
+   "boardName": "仙舟「罗浮」",
+   "degree": 1
+  },
+  {
+   "id": 1188,
+   "name": "罗刹",
+   "avatar": "/avatars/1188.png",
+   "external": false,
+   "reason": null,
+   "faction": "xianzhou-alliance",
+   "factionName": "仙舟联盟",
+   "factionColor": "#5eead4",
+   "element": "虚数",
+   "board": "xianzhou",
+   "boardName": "仙舟「罗浮」",
+   "degree": 1
+  },
+  {
+   "id": 3056,
+   "name": "云璃",
+   "avatar": "/avatars/3056.png",
+   "external": false,
+   "reason": null,
+   "faction": "xianzhou-alliance",
+   "factionName": "仙舟联盟",
+   "factionColor": "#5eead4",
+   "element": "物理",
+   "board": "xianzhou",
+   "boardName": "仙舟「罗浮」",
+   "degree": 1
+  },
+  {
+   "id": 2304,
+   "name": "加拉赫",
+   "avatar": "/avatars/2304.png",
+   "external": false,
+   "reason": null,
+   "faction": "penacony-family",
+   "factionName": "匹诺康尼家族",
+   "factionColor": "#f0abfc",
+   "element": "火",
+   "board": "penacony",
+   "boardName": "匹诺康尼",
+   "degree": 1
+  },
+  {
+   "id": 2302,
+   "name": "砂金",
+   "avatar": "/avatars/2302.png",
+   "external": false,
+   "reason": null,
+   "faction": "ipc",
+   "factionName": "星际和平公司",
+   "factionColor": "#facc15",
+   "element": "虚数",
+   "board": "penacony",
+   "boardName": "匹诺康尼",
+   "degree": 4
+  },
+  {
+   "id": 2675,
+   "name": "翡翠",
+   "avatar": "/avatars/2675.png",
+   "external": false,
+   "reason": null,
+   "faction": "ipc",
+   "factionName": "星际和平公司",
+   "factionColor": "#facc15",
+   "element": "量子",
+   "board": "penacony",
+   "boardName": "匹诺康尼",
+   "degree": 2
+  },
+  {
+   "id": 1873,
+   "name": "真理医生",
+   "avatar": "/avatars/1873.png",
+   "external": false,
+   "reason": null,
+   "faction": "intelligentsia-guild",
+   "factionName": "博识学会",
+   "factionColor": "#7dd3fc",
+   "element": "虚数",
+   "board": "penacony",
+   "boardName": "匹诺康尼",
+   "degree": 1
+  },
+  {
+   "id": 2082,
+   "name": "黑天鹅",
+   "avatar": "/avatars/2082.png",
+   "external": false,
+   "reason": null,
+   "faction": "garden-of-recollection",
+   "factionName": "流光忆庭",
+   "factionColor": "#c4b5fd",
+   "element": "风",
+   "board": "penacony",
+   "boardName": "匹诺康尼",
+   "degree": 3
+  },
+  {
+   "id": 2087,
+   "name": "花火",
+   "avatar": "/avatars/2087.png",
+   "external": false,
+   "reason": null,
+   "faction": "masked-fools",
+   "factionName": "假面愚者",
+   "factionColor": "#fb7185",
+   "element": "量子",
+   "board": "penacony",
+   "boardName": "匹诺康尼",
+   "degree": 3
+  },
+  {
+   "id": 2300,
+   "name": "黄泉",
+   "avatar": "/avatars/2300.png",
+   "external": false,
+   "reason": null,
+   "faction": "galaxy-rangers",
+   "factionName": "巡海游侠",
+   "factionColor": "#38bdf8",
+   "element": "雷",
+   "board": "penacony",
+   "boardName": "匹诺康尼",
+   "degree": 2
+  },
+  {
+   "id": 2526,
+   "name": "波提欧",
+   "avatar": "/avatars/2526.png",
+   "external": false,
+   "reason": null,
+   "faction": "galaxy-rangers",
+   "factionName": "巡海游侠",
+   "factionColor": "#38bdf8",
+   "element": "物理",
+   "board": "penacony",
+   "boardName": "匹诺康尼",
+   "degree": 2
+  },
+  {
+   "id": 3732,
+   "name": "乱破",
+   "avatar": "/avatars/3732.png",
+   "external": false,
+   "reason": null,
+   "faction": "galaxy-rangers",
+   "factionName": "巡海游侠",
+   "factionColor": "#38bdf8",
+   "element": "虚数",
+   "board": "penacony",
+   "boardName": "匹诺康尼",
+   "degree": 1
+  },
+  {
+   "id": 1714,
+   "name": "银枝",
+   "avatar": "/avatars/1714.png",
+   "external": false,
+   "reason": null,
+   "faction": "knights-of-beauty",
+   "factionName": "纯美骑士团",
+   "factionColor": "#fca5a5",
+   "element": "物理",
+   "board": "penacony",
+   "boardName": "匹诺康尼",
+   "degree": 1
+  },
+  {
+   "id": 6025,
+   "name": "大丽花",
+   "avatar": "/avatars/6025.png",
+   "external": false,
+   "reason": null,
+   "faction": "cremators",
+   "factionName": "焚化工",
+   "factionColor": "#fb923c",
+   "element": "火",
+   "board": "penacony",
+   "boardName": "匹诺康尼",
+   "degree": 1
+  },
+  {
+   "id": 8099,
+   "name": "星神★阿哈",
+   "avatar": "/avatars/8099.png",
+   "external": false,
+   "reason": "「欢愉」星神，把整个宇宙当成一场玩笑。",
+   "faction": "erxiang-residents",
+   "factionName": "二相乐园",
+   "factionColor": "#c084fc",
+   "element": "量子",
+   "board": "erxiang",
+   "boardName": "二相乐园",
+   "degree": 2
+  },
+  {
+   "id": 7500,
+   "name": "远坂凛",
+   "avatar": "/avatars/7500.png",
+   "external": false,
+   "reason": null,
+   "faction": "fate-collab",
+   "factionName": "Fate 联动线",
+   "factionColor": "#ef4444",
+   "element": "量子",
+   "board": "fate",
+   "boardName": "Fate 联动线",
+   "degree": 3
+  },
+  {
+   "id": 5338,
+   "name": "Archer",
+   "avatar": "/avatars/5338.png",
+   "external": false,
+   "reason": null,
+   "faction": "fate-collab",
+   "factionName": "Fate 联动线",
+   "factionColor": "#ef4444",
+   "element": "量子",
+   "board": "fate",
+   "boardName": "Fate 联动线",
+   "degree": 2
+  },
+  {
+   "id": 7499,
+   "name": "吉尔伽美什",
+   "avatar": "/avatars/7499.png",
+   "external": false,
+   "reason": null,
+   "faction": "fate-collab",
+   "factionName": "Fate 联动线",
+   "factionColor": "#ef4444",
+   "element": "雷",
+   "board": "fate",
+   "boardName": "Fate 联动线",
+   "degree": 3
+  },
+  {
+   "id": 5339,
+   "name": "Saber",
+   "avatar": "/avatars/5339.png",
+   "external": false,
+   "reason": null,
+   "faction": "fate-collab",
+   "factionName": "Fate 联动线",
+   "factionColor": "#ef4444",
+   "element": "风",
+   "board": "fate",
+   "boardName": "Fate 联动线",
+   "degree": 2
+  },
+  {
+   "id": "EXT:elio",
+   "name": "艾利欧",
+   "avatar": null,
+   "external": true,
+   "reason": "星核猎手的首领，写下所有人的「剧本」。",
+   "faction": "stellar-hunters",
+   "factionName": "星核猎手",
+   "factionColor": "#f472b6",
+   "element": null,
+   "board": null,
+   "degree": 4
+  },
+  {
+   "id": "EXT:diamond",
+   "name": "钻石",
+   "avatar": null,
+   "external": true,
+   "reason": "星际和平公司战略投资部主管，「石心十人」之首。",
+   "faction": "ipc",
+   "factionName": "星际和平公司",
+   "factionColor": "#facc15",
+   "element": null,
+   "board": null,
+   "degree": 3
+  },
+  {
+   "id": "EXT:cocolia",
+   "name": "可可利亚",
+   "avatar": null,
+   "external": true,
+   "reason": "贝洛伯格前大守护者，布洛妮娅的养母。",
+   "faction": "belobog",
+   "factionName": "贝洛伯格",
+   "factionColor": "#a5d8ff",
+   "element": null,
+   "board": null,
+   "degree": 2
+  },
+  {
+   "id": "EXT:svarog",
+   "name": "史瓦罗",
+   "avatar": null,
+   "external": true,
+   "reason": "古代遗迹守卫，克拉拉的家人。",
+   "faction": "belobog",
+   "factionName": "贝洛伯格",
+   "factionColor": "#a5d8ff",
+   "element": null,
+   "board": null,
+   "degree": 1
+  },
+  {
+   "id": 414,
+   "name": "克拉拉",
+   "avatar": "/avatars/414.png",
+   "external": false,
+   "reason": null,
+   "faction": "belobog",
+   "factionName": "贝洛伯格",
+   "factionColor": "#a5d8ff",
+   "element": "物理",
+   "board": "belobog",
+   "boardName": "贝洛伯格",
+   "degree": 1
+  },
+  {
+   "id": "EXT:baiheng",
+   "name": "白珩",
+   "avatar": null,
+   "external": true,
+   "reason": "云上五骁之一，其死改变了其余四人的命运。",
+   "faction": "xianzhou-alliance",
+   "factionName": "仙舟联盟",
+   "factionColor": "#5eead4",
+   "element": null,
+   "board": null,
+   "degree": 4
+  },
+  {
+   "id": 7935,
+   "name": "真珠",
+   "avatar": "/avatars/7935.png",
+   "external": false,
+   "reason": null,
+   "faction": "ipc",
+   "factionName": "星际和平公司",
+   "factionColor": "#facc15",
+   "element": "冰",
+   "board": "erxiang",
+   "boardName": "二相乐园",
+   "degree": 0
+  },
+  {
+   "id": 7045,
+   "name": "绯英",
+   "avatar": "/avatars/7045.png",
+   "external": false,
+   "reason": null,
+   "faction": "erxiang-residents",
+   "factionName": "二相乐园",
+   "factionColor": "#c084fc",
+   "element": "物理",
+   "board": "erxiang",
+   "boardName": "二相乐园",
+   "degree": 0
+  },
+  {
+   "id": 6814,
+   "name": "不死途",
+   "avatar": "/avatars/6814.png",
+   "external": false,
+   "reason": null,
+   "faction": "galaxy-rangers",
+   "factionName": "巡海游侠",
+   "factionColor": "#38bdf8",
+   "element": "雷",
+   "board": "erxiang",
+   "boardName": "二相乐园",
+   "degree": 0
+  },
+  {
+   "id": 6747,
+   "name": "火花",
+   "avatar": "/avatars/6747.png",
+   "external": false,
+   "reason": null,
+   "faction": "masked-fools",
+   "factionName": "假面愚者",
+   "factionColor": "#fb7185",
+   "element": "火",
+   "board": "erxiang",
+   "boardName": "二相乐园",
+   "degree": 0
+  },
+  {
+   "id": 6746,
+   "name": "爻光",
+   "avatar": "/avatars/6746.png",
+   "external": false,
+   "reason": null,
+   "faction": "xianzhou-alliance",
+   "factionName": "仙舟联盟",
+   "factionColor": "#5eead4",
+   "element": "物理",
+   "board": "xianzhou",
+   "boardName": "仙舟「罗浮」",
+   "degree": 0
+  },
+  {
+   "id": 7047,
+   "name": "开拓者•欢愉",
+   "avatar": "/avatars/7047.png",
+   "external": false,
+   "reason": null,
+   "faction": "express",
+   "factionName": "星穹列车",
+   "factionColor": "#fbbf24",
+   "element": "雷",
+   "board": "express",
+   "boardName": "星穹列车",
+   "degree": 0
+  },
+  {
+   "id": 4175,
+   "name": "忘归人",
+   "avatar": "/avatars/4175.png",
+   "external": false,
+   "reason": null,
+   "faction": "xianzhou-alliance",
+   "factionName": "仙舟联盟",
+   "factionColor": "#5eead4",
+   "element": "火",
+   "board": "xianzhou",
+   "boardName": "仙舟「罗浮」",
+   "degree": 0
+  },
+  {
+   "id": 4442,
+   "name": "开拓者•记忆",
+   "avatar": "/avatars/4442.png",
+   "external": false,
+   "reason": null,
+   "faction": "express",
+   "factionName": "星穹列车",
+   "factionColor": "#fbbf24",
+   "element": "冰",
+   "board": "express",
+   "boardName": "星穹列车",
+   "degree": 0
+  },
+  {
+   "id": 1874,
+   "name": "阮•梅",
+   "avatar": "/avatars/1874.png",
+   "external": false,
+   "reason": null,
+   "faction": "genius-society",
+   "factionName": "天才俱乐部",
+   "factionColor": "#a78bfa",
+   "element": "冰",
+   "board": "herta",
+   "boardName": "黑塔空间站",
+   "degree": 0
+  },
+  {
+   "id": 411,
+   "name": "开拓者•同谐",
+   "avatar": "/avatars/411.png",
+   "external": false,
+   "reason": null,
+   "faction": "express",
+   "factionName": "星穹列车",
+   "factionColor": "#fbbf24",
+   "element": "虚数",
+   "board": "express",
+   "boardName": "星穹列车",
+   "degree": 0
+  },
+  {
+   "id": 3127,
+   "name": "开拓者•存护",
+   "avatar": "/avatars/3127.png",
+   "external": false,
+   "reason": null,
+   "faction": "express",
+   "factionName": "星穹列车",
+   "factionColor": "#fbbf24",
+   "element": "火",
+   "board": "express",
+   "boardName": "星穹列车",
+   "degree": 0
+  },
+  {
+   "id": 2086,
+   "name": "米沙",
+   "avatar": "/avatars/2086.png",
+   "external": false,
+   "reason": null,
+   "faction": "penacony-family",
+   "factionName": "匹诺康尼家族",
+   "factionColor": "#f0abfc",
+   "element": "冰",
+   "board": "penacony",
+   "boardName": "匹诺康尼",
+   "degree": 0
+  },
+  {
+   "id": 49,
+   "name": "黑塔",
+   "avatar": "/avatars/49.png",
+   "external": false,
+   "reason": null,
+   "faction": "genius-society",
+   "factionName": "天才俱乐部",
+   "factionColor": "#a78bfa",
+   "element": "冰",
+   "board": "herta",
+   "boardName": "黑塔空间站",
+   "degree": 0
+  },
+  {
+   "id": 52,
+   "name": "艾丝妲",
+   "avatar": "/avatars/52.png",
+   "external": false,
+   "reason": null,
+   "faction": "herta-station",
+   "factionName": "空间站「黑塔」",
+   "factionColor": "#67e8f9",
+   "element": "火",
+   "board": "herta",
+   "boardName": "黑塔空间站",
+   "degree": 0
+  },
+  {
+   "id": 380,
+   "name": "阿兰",
+   "avatar": "/avatars/380.png",
+   "external": false,
+   "reason": null,
+   "faction": "herta-station",
+   "factionName": "空间站「黑塔」",
+   "factionColor": "#67e8f9",
+   "element": "雷",
+   "board": "herta",
+   "boardName": "黑塔空间站",
+   "degree": 0
+  }
+ ],
+ "links": [
+  {
+   "source": "风堇",
+   "target": "阿格莱雅",
+   "relation": "尊敬的领导者",
+   "type": "superior",
+   "dir": "t2s",
+   "arrow": "阿格莱雅→风堇",
+   "from": "阿格莱雅",
+   "to": "风堇",
+   "notes": [
+    "尊敬的领导者：逐火之旅的领导者，能感受到她信任自己的医治能力。",
+    "尊敬的领导者：值得尊敬的领导者。 即便离开了人世，也仍在指引着黄金裔们前行。",
+    "救死扶伤的天空后裔：昏光庭院的首席医师，医术精湛，也是逐火之旅的战友。",
+    "救死扶伤的天空后裔：昏光庭院的医师，逐火之旅的战友。 「翁法罗斯的天空已经黑暗了太久太久，是时候由她来赋予治愈的微光了。」"
+   ],
+   "origins": [
+    "official"
+   ]
+  },
+  {
+   "source": "风堇",
+   "target": "缇宝",
+   "relation": "尊敬的黄金裔前辈",
+   "type": "mentor",
+   "dir": "t2s",
+   "arrow": "缇宝→风堇",
+   "from": "缇宝",
+   "to": "风堇",
+   "notes": [
+    "尊敬的黄金裔前辈：值得尊敬的前辈，也是逐火之旅的战友和领导者之一。",
+    "昏光庭院的盟友：黄金裔的一员，逐火之旅的战友，温柔尽责的医师。",
+    "昏光庭院的盟友：逐火之旅的战友，笑容温柔又令人充满能量，很厉害很靠谱的医师，一直试图帮助自己抵抗磨损。"
+   ],
+   "origins": [
+    "official"
+   ]
+  },
+  {
+   "source": "风堇",
+   "target": "白厄",
+   "relation": "树庭的同学",
+   "type": "ally",
+   "dir": "none",
+   "arrow": "none",
+   "from": null,
+   "to": null,
+   "notes": [
+    "树庭的同学：树庭求学时的同学，逐火之旅的战友。",
+    "树庭的同学：树庭求学时的同学，接过阿格莱雅职责的黄金裔领袖，共同讨伐艾格勒的战友。",
+    "树庭的助教：逐火之旅的战友，树庭求学时那刻夏老师的助教，尽责的医师。",
+    "树庭的助教：昏光庭院的医师，树庭求学时期的助教。 击败艾格勒后，接过「天空」火种，末日下用虹光守护世间之人。"
+   ],
+   "origins": [
+    "official"
+   ]
+  },
+  {
+   "source": "风堇",
+   "target": "遐蝶",
+   "relation": "树庭求学期间的好友",
+   "type": "ally",
+   "dir": "none",
+   "arrow": "none",
+   "from": null,
+   "to": null,
+   "notes": [
+    "树庭求学期间的好友：逐火之旅的战友。",
+    "树庭求学期间的好友：逐火之旅的战友，担任树庭助教期间的好友，接过「死亡」火种的半神。",
+    "树庭求学期间的好友：逐火之旅的战友，树庭求学时那刻夏老师的助教，拥有疗愈人们的温暖力量。"
+   ],
+   "origins": [
+    "official"
+   ]
+  },
+  {
+   "source": "风堇",
+   "target": "那刻夏",
+   "relation": "渎神的教授",
+   "type": "mentor",
+   "dir": "t2s",
+   "arrow": "那刻夏→风堇",
+   "from": "那刻夏",
+   "to": "风堇",
+   "notes": [
+    "渎神的教授：神悟树庭的贤人，自己的老师，学术观点激进。",
+    "解明世界真理的教授：神悟树庭的贤人，自己的老师。揭露了世界的真理，也为此而献身。",
+    "助教：曾是自己的助教，刻苦聪慧，但缺乏对权威的质疑。"
+   ],
+   "origins": [
+    "official"
+   ]
+  },
+  {
+   "source": "风堇",
+   "target": "开拓者·毁灭",
+   "relation": "来自天外的伙伴",
+   "type": "ally",
+   "dir": "none",
+   "arrow": "none",
+   "from": null,
+   "to": null,
+   "notes": [
+    "来自天外的伙伴：来自天外的异乡人，对他们的天外冒险很好奇。",
+    "来自天外的伙伴：来自天外的可靠伙伴，对他们的天外冒险很好奇。",
+    "来自天外的伙伴：来自天外的异乡人，践行「开拓」之道的无名客。",
+    "来自天外的伙伴：致亲爱的灰宝：  与你一同，我们撕裂了旧神笼盖的天穹， 此世的人类迎来了晴空，还有久违的彩虹。 这都是因为你的努力。一直要拯救大家的救世主，是你—— 灰宝，你太棒了！值得最好的礼物！  我想赠你晨间洒下的曙光，可我担心它太过暗淡，难以照亮幽邃的深空； 我想赠你晨间奔涌的清风，可它一旦被装进玻璃瓶，便不会再自由流淌。 后来是小伊卡在一旁蹭着我，才让我想到—— 我要把这枚一直别在腰间的挂坠送给你！  如果说小伊卡像棉花一样柔软，那这枚挂坠就像一颗…棉花糖？ 光是看着就让人甜丝丝的，让人记起我们一同度过的时光… 所以我想，要是你把它别在腰间， 便能一直感受到天空的温暖，我带来的温暖。  那么，就愿我的礼物在你身边永远摇荡，带来微风与曦光， 为你的旅途守护可爱的记忆，还有治愈的铃音。  雅辛忒丝"
+   ],
+   "origins": [
+    "official"
+   ]
+  },
+  {
+   "source": "风堇",
+   "target": "丹恒•腾荒",
+   "relation": "来自天外的伙伴",
+   "type": "ally",
+   "dir": "none",
+   "arrow": "none",
+   "from": null,
+   "to": null,
+   "notes": [
+    "来自天外的伙伴：来自天外的异乡人，对他们的天外冒险很好奇。",
+    "来自天外的盟友：来自天外的异乡人，践行「开拓」之道的无名客；情绪稳定，能力可靠，实力也深藏不露，性格容易伤春悲秋，但是越来越会聊天了。",
+    "昏光庭院的黄金裔：黄金裔的一员，昏光庭院的首席护理师。作为天空的祭司，或许能提供解开天空诅咒的线索。",
+    "昏光庭院的黄金裔：接过「天空」火种的半神，缝补了翁法罗斯晨昏的黄金裔；有着足够强大的心灵。"
+   ],
+   "origins": [
+    "official"
+   ]
+  },
+  {
+   "source": "风堇",
+   "target": "赛飞儿",
+   "relation": "逐火之旅的前辈",
+   "type": "mentor",
+   "dir": "t2s",
+   "arrow": "赛飞儿→风堇",
+   "from": "赛飞儿",
+   "to": "风堇",
+   "notes": [
+    "逐火之旅的前辈：接过「诡计」火种的黄金裔前辈。 身形轻盈，是个急性子。",
+    "粉彤彤的后辈：粉彤彤的后辈，「天空」的后裔，自带明亮的氛围和很强的责任心。"
+   ],
+   "origins": [
+    "official"
+   ]
+  },
+  {
+   "source": "风堇",
+   "target": "昔涟",
+   "relation": "共同拯救翁法罗斯的伙伴",
+   "type": "ally",
+   "dir": "none",
+   "arrow": "none",
+   "from": null,
+   "to": null,
+   "notes": [
+    "共同拯救翁法罗斯的伙伴：「我猜，昔涟一定也很喜欢亮晶晶的事物…因为她总是那么喜欢望着天上的星星，你说是吗，小伊卡？嗯！她一定也很喜欢软乎乎的你~」",
+    "天空的医师：「天空」的篇章，微光疗愈人心，以人的意志缝补晨昏。 愿「天空」治愈晨昏。"
+   ],
+   "origins": [
+    "official"
+   ]
+  },
+  {
+   "source": "刻律德菈",
+   "target": "阿格莱雅",
+   "relation": "奥赫玛的女皇",
+   "type": "superior",
+   "dir": "t2s",
+   "arrow": "阿格莱雅→刻律德菈",
+   "from": "阿格莱雅",
+   "to": "刻律德菈",
+   "notes": [
+    "金织爵：黄金裔的一员，亦是能接过逐火的重任的最佳人选。",
+    "奥赫玛的女皇：逐火之旅的领导者，黄金裔的领袖，以血与火烧尽旧时代的女皇，也是残酷的暴君与独裁官。 在她成为半神并陨落后，自己接过了她的职责，带领黄金裔们开启第二次逐火之旅"
+   ],
+   "origins": [
+    "official"
+   ]
+  },
+  {
+   "source": "刻律德菈",
+   "target": "缇宝",
+   "relation": "奥赫玛的女皇",
+   "type": "superior",
+   "dir": "t2s",
+   "arrow": "缇宝→刻律德菈",
+   "from": "缇宝",
+   "to": "刻律德菈",
+   "notes": [
+    "命运爵：「门径」之半神，雅努萨波利斯的祭司、圣女，颁赐神谕者。 身躯娇小，但也能容纳莫大的智慧。 为统合天下神谕，自己曾将她们掳作质子。她们也为自己带来了「再创世」的神谕和「天外的救世主」的预言。",
+    "奥赫玛的女皇：第一次逐火之旅的领导者，黄金裔的领袖，奥赫玛的女皇与独裁官，但在不为人知的地方也会为翁法罗斯的未来殚精竭虑。 曾拒绝她希望通过神谕维持王权的请求，但依旧被她王冠上的烈焰吸引，成为她座下的「命运爵」，为她昭示命运。"
+   ],
+   "origins": [
+    "official"
+   ]
+  },
+  {
+   "source": "刻律德菈",
+   "target": "海瑟音",
+   "relation": "追随之人",
+   "type": "superior",
+   "dir": "s2t",
+   "arrow": "刻律德菈→海瑟音",
+   "from": "刻律德菈",
+   "to": "海瑟音",
+   "notes": [
+    "剑旗爵：圣城骑士统领，最信任的臣子与锋刃。 她循着光与热游向自己，寻找属于大海的「律法」。而在投入自己的麾下后，自己便窥见了她内心的空洞，于是想要给她一处没有被污染的大海。 「我承诺你一片崭新的海域，凯撒的承诺从不落空。」",
+    "追随之人：奥赫玛的女皇，黄金战争的终结者，黄金裔的领袖。 她是理想炽热的君主，就像一团永不熄灭的火焰，灼热而明亮，融化了自己的迷惘。 自己是她身侧的一尾游鱼，循着血与火的气味成为凯撒忠诚的剑旗。但是有太多人为她的野心付出生命的代价，而她的火光最终也由自己亲手熄灭。"
+   ],
+   "origins": [
+    "official"
+   ]
+  },
+  {
+   "source": "刻律德菈",
+   "target": "开拓者·毁灭",
+   "relation": "天外的救世主",
+   "type": "ally",
+   "dir": "none",
+   "arrow": "none",
+   "from": null,
+   "to": null,
+   "notes": [
+    "天外的救世主：神谕中天外的「救世主」，曾经历过其他世的逐火之旅。 通过他/她获得识刻锚后，自己与天外的两位天才合作，冻结了来古士部分特殊权限。",
+    "天外的救世主：天外的救世主：  棋局收官，你与我的征服已毕。 但你应知晓，此战绝非凯撒征程的终点。 我已见，宇宙的广袤远超世人目之所及。 哪怕重蹈此生，于万千年后，我必将行至天外。 然后，我会重启伟大的征程，直至征服星海。 这并非我对翁法罗斯的畅想，而是我对我的帝国宣颁的铁律： 「你的子民会行军越野，以宇宙为粮仓，杀死必须杀死的敌人。」 收下这枚王棋吧，作为这道铁律的见证，亦是凯撒的封赏。 它曾随我出征，随我驰骋，随我凯旋，随我踏碎众邦的律法， 如今，它将如我掷下的砝码，令胜利的天平朝你俯身。  带着这枚棋子，去往更广阔的棋盘， 待凯撒归来，你可再度为我的律法而战—— 亦或忤逆它，与我博弈一番。  翁法罗斯的凯撒"
+   ],
+   "origins": [
+    "official"
+   ]
+  },
+  {
+   "source": "刻律德菈",
+   "target": "昔涟",
+   "relation": "奥赫玛的女皇",
+   "type": "superior",
+   "dir": "t2s",
+   "arrow": "昔涟→刻律德菈",
+   "from": "昔涟",
+   "to": "刻律德菈",
+   "notes": [
+    "救世主的伙伴：随天外的救世主一起到来的英雄。 她就像一首美妙的暖洋协奏曲，融汇所有的冰川和泥泞。",
+    "共同拯救翁法罗斯的伙伴：「我欣赏她的语调，既非奉承，亦非戏谑…认真说来，似乎更贴近你们常说的…友情？」",
+    "奥赫玛的女皇：「律法」之半神，第一次逐火之旅的领导者，奥赫玛的女皇，意欲征服群星的凯撒。 自己通过开拓者的记忆，向她展现了天外的世界，也令她打消了借助「毁灭」的想法。",
+    "律法的君主：「律法」的篇章，与神明相博弈，只为世界自立于群星。 愿「律法」遍入群星。"
+   ],
+   "origins": [
+    "official"
+   ]
+  },
+  {
+   "source": "那刻夏",
+   "target": "阿格莱雅",
+   "relation": "理念不合者",
+   "type": "enemy",
+   "dir": "both",
+   "arrow": "both",
+   "from": null,
+   "to": null,
+   "notes": [
+    "理念不合者：非人非神的怪物，冷血的女人，演技有时甚至比自己更好。",
+    "达成共识的战友：坚持逐火的理想，为此人性将尽，灵魂也变得极度稀薄，在命运的末端终于达成了一项共识。",
+    "理念不合者：高傲的学者，逐火之旅的阻力，行事狂狷不羁、独爱口放厥词，渎神的大表演家。有着陈年宿怨。",
+    "为真理献身的战友：接过「理性」火种的半神最终为寻求的真理献身，在命运的末端终于与其达成了一项共识。"
+   ],
+   "origins": [
+    "official"
+   ]
+  },
+  {
+   "source": "那刻夏",
+   "target": "缇宝",
+   "relation": "黄金裔的前辈",
+   "type": "mentor",
+   "dir": "t2s",
+   "arrow": "缇宝→那刻夏",
+   "from": "缇宝",
+   "to": "那刻夏",
+   "notes": [
+    "黄金裔的前辈：自己身为黄金裔的前辈，负责传播神谕，但信神谕不如信自己。",
+    "「理性」的黄金裔：黄金裔的一员，树庭贤人与讲师，总是说奇怪的话。",
+    "「理性」的黄金裔：接过「理性」火种的半神，揭露了世界的真理，也为此而献身。"
+   ],
+   "origins": [
+    "official"
+   ]
+  },
+  {
+   "source": "那刻夏",
+   "target": "白厄",
+   "relation": "令人印象深刻的学生",
+   "type": "mentor",
+   "dir": "s2t",
+   "arrow": "那刻夏→白厄",
+   "from": "那刻夏",
+   "to": "白厄",
+   "notes": [
+    "令人印象深刻的学生：在课堂上掀翻了教室的有趣学生。",
+    "令人印象深刻的学生：天生的英雄，命运注定的救世主，优秀也必将更优秀，“刻法勒之子”。",
+    "值得信任的老师：教授自己关于黄金裔和泰坦相关知识的老师，自己对他的能力很信任。",
+    "值得信任的老师：接过「理性」火种的半神，揭露了世界的真理，也为此而献身。"
+   ],
+   "origins": [
+    "official"
+   ]
+  },
+  {
+   "source": "那刻夏",
+   "target": "遐蝶",
+   "relation": "被「死亡之触」困扰的学生",
+   "type": "mentor",
+   "dir": "s2t",
+   "arrow": "那刻夏→遐蝶",
+   "from": "那刻夏",
+   "to": "遐蝶",
+   "notes": [
+    "被「死亡之触」困扰的学生：自己的学生，寻索「死亡」火种的黄金裔。",
+    "共同解明真理的学生：接过「死亡」火种的半神，帮助自己完成最终课题的学生。",
+    "树庭的教授：教授自己关于黄金裔和泰坦相关知识的老师，对全名与大地兽有奇怪的执念。",
+    "共同解明真理的老师：接过「理性」火种的黄金裔，帮助自己弄清身世的老师，揭露了世界的真理，也为此而献身。"
+   ],
+   "origins": [
+    "official"
+   ]
+  },
+  {
+   "source": "那刻夏",
+   "target": "开拓者·毁灭",
+   "relation": "黄金裔的新同盟",
+   "type": "ally",
+   "dir": "none",
+   "arrow": "none",
+   "from": null,
+   "to": null,
+   "notes": [
+    "黄金裔的新同盟：与黄金裔同行的、来不及认识的异乡人。",
+    "黄金裔的新同盟：与黄金裔同行的异乡人，如今已是接过「岁月」火种的半神。",
+    "黄金裔的同盟：致开拓者：  借由诸位之力，我已完成此世最伟大的课题，表演本可落幕—— 但在那安提基色拉人的脑中，我看到了世外无垠的知识。 在最后的舞台上，我看到你们实现了扭转命运的奇迹。  正是这些我仍不解的秘密，解开了将世界困囿的谜题， 使人在黑暗中的不竭摸索，不至于沦为徒劳。 故：我已目睹洞穴之外的真实，便不可停止求索。  无论翁法罗斯继续以何种形式存续， 我都将延续「理性」，直至重拾真理， 将那更为神圣、宏伟之物再度超越、亵渎！  你大可以把这枚贤者之石视作我对你的嘉奖， 我希望你珍重这枚包含此世一切智慧的炼金奇迹， 但若遇到实在讲不通道理的蠢材，就用它的坚硬给予他启明吧。   阿那克萨戈拉斯"
+   ],
+   "origins": [
+    "official"
+   ]
+  },
+  {
+   "source": "那刻夏",
+   "target": "昔涟",
+   "relation": "共同拯救翁法罗斯的伙伴",
+   "type": "ally",
+   "dir": "none",
+   "arrow": "none",
+   "from": null,
+   "to": null,
+   "notes": [
+    "共同拯救翁法罗斯的伙伴：「由她书写的千万道的记忆，也该让那虚伪的神明明白——至少，『我们为何物』的解答，轮不到它凭空杜撰。」",
+    "理性的学士：「理性」的篇章，生命付之一炬，灵魂诘问世界的真理。 愿「理性」启蒙真理。"
+   ],
+   "origins": [
+    "official"
+   ]
+  },
+  {
+   "source": "丹恒•腾荒",
+   "target": "阿格莱雅",
+   "relation": "黄金裔领袖",
+   "type": "superior",
+   "dir": "t2s",
+   "arrow": "阿格莱雅→丹恒•腾荒",
+   "from": "阿格莱雅",
+   "to": "丹恒•腾荒",
+   "notes": [
+    "黄金裔领袖：黄金裔的领袖，深受民众们信赖，但行事冷酷，值得警惕。",
+    "黄金裔领袖：黄金裔的领袖，深受民众们信赖，想要与自己与开拓者结盟。",
+    "黄金裔领袖：「浪漫」之半神，黄金裔的领袖，已为逐火之旅燃尽了最后一缕金辉。",
+    "来自天外的援军：来自天外的异乡人，与开拓者同样有着强劲的实力。",
+    "来自天外的援军：来自天外的异乡人，实力强大，需要争取的盟友。",
+    "盟友：来自天外的开拓者，逐火之旅的强大助力。"
+   ],
+   "origins": [
+    "official"
+   ]
+  },
+  {
+   "source": "丹恒•腾荒",
+   "target": "缇宝",
+   "relation": "有着非凡能力的黄金裔",
+   "type": "ally",
+   "dir": "none",
+   "arrow": "none",
+   "from": null,
+   "to": null,
+   "notes": [
+    "有着非凡能力的黄金裔：黄金裔的一员，仿若孩童却是所有人的大前辈，有着非凡的时空复现能力。",
+    "有着非凡能力的黄金裔",
+    "天外的新同伴：来自天外的异乡人，值得信任的新伙伴。被白厄折断了长枪。"
+   ],
+   "origins": [
+    "official"
+   ]
+  },
+  {
+   "source": "丹恒•腾荒",
+   "target": "万敌",
+   "relation": "来自异邦的黄金裔",
+   "type": "ally",
+   "dir": "none",
+   "arrow": "none",
+   "from": null,
+   "to": null,
+   "notes": [
+    "来自异邦的黄金裔：黄金裔的一员，来自名为「悬锋」的城邦。武力非凡，衣着奔放，性格有些古怪。",
+    "来自异邦的黄金裔：黄金裔的一员，来自名为「悬锋」的城邦，接过「纷争」火种的半神。",
+    "来自天外的异乡人：来自天外的异乡人。"
+   ],
+   "origins": [
+    "official"
+   ]
+  },
+  {
+   "source": "丹恒•腾荒",
+   "target": "白厄",
+   "relation": "背负「救世主」名号的黄金裔",
+   "type": "ally",
+   "dir": "none",
+   "arrow": "none",
+   "from": null,
+   "to": null,
+   "notes": [
+    "背负「救世主」名号的黄金裔：黄金裔的一员，背负着「救世主」的期望，性格大方但心思缜密。",
+    "背负「救世主」名号的黄金裔：黄金裔中的救世主，翁法罗斯的英雄；将要完成「再创世」的伟业。",
+    "战力非凡的异乡人：来自天外的异乡人，战力强大，似乎是两人中更谨慎的那位。",
+    "翁法罗斯最大的奇迹：最正确的决定就是相信他们，并和他们成为伙伴；自己心中的英雄，翁法罗斯最大的奇迹，绝不会让他们的旅途在翁法罗斯画上句号。"
+   ],
+   "origins": [
+    "official"
+   ]
+  },
+  {
+   "source": "丹恒•腾荒",
+   "target": "遐蝶",
+   "relation": "拥有「死亡之触」的黄金裔",
+   "type": "ally",
+   "dir": "none",
+   "arrow": "none",
+   "from": null,
+   "to": null,
+   "notes": [
+    "拥有「死亡之触」的黄金裔：黄金裔的一员，有着凭借触碰夺走生命的能力，但其能力来源不详。",
+    "来自天外的异乡人：来自天外的异乡人。"
+   ],
+   "origins": [
+    "official"
+   ]
+  },
+  {
+   "source": "丹恒•腾荒",
+   "target": "开拓者·毁灭",
+   "relation": "要守护的伙伴",
+   "type": "ally",
+   "dir": "none",
+   "arrow": "none",
+   "from": null,
+   "to": null,
+   "notes": [
+    "要守护的伙伴：星穹列车的珍贵同伴；伙伴们是自己迷失时的路标，通向未来，直到下一个「轮回」。 为了拯救翁法罗斯，开拓者留在了权杖内部，后被长夜月困入忆潮之中。以天地为横轴，以时光为纵轴，不论做出出多少牺牲，自己都会带开拓者回家。"
+   ],
+   "origins": [
+    "official"
+   ]
+  },
+  {
+   "source": "丹恒•腾荒",
+   "target": "长夜月",
+   "relation": "熟悉又陌生的伙伴",
+   "type": "ally",
+   "dir": "none",
+   "arrow": "none",
+   "from": null,
+   "to": null,
+   "notes": [
+    "熟悉又陌生的伙伴：熟悉又陌生的「三月七」，强大又棘手的存在，尽管不清楚她的动机与计划，但一定会从她手中平安带回开拓者与三月七。",
+    "三月七的好伙伴：作为三月七看重的伙伴，也被列入自己保护的范围内。 在翁法罗斯的劫难中，长夜月得以亲眼见证列车组伙伴们与三月七的羁绊，她也可以安心放手，将三月七托付予他们。"
+   ],
+   "origins": [
+    "official"
+   ]
+  },
+  {
+   "source": "长夜月",
+   "target": "三月七",
+   "relation": "最珍视的存在",
+   "type": "ally",
+   "dir": "none",
+   "arrow": "none",
+   "from": null,
+   "to": null,
+   "notes": [
+    "最珍视的存在：自己是为了守护三月七的未来而存在。 极其重视她的愿望，不惜以极端的手段将其实现。最终为三月七与列车组伙伴们之间的羁绊感到欣慰，并留下自己的力量供三月七来日保护自己使用。",
+    "强大又任性的「自己」：象征着自己被遗忘的过去。 虽然她的计划违背了自己的本愿，但她并无坏心。若有机会与她促膝长谈，一定能引导她回到正轨。"
+   ],
+   "origins": [
+    "official"
+   ]
+  },
+  {
+   "source": "长夜月",
+   "target": "开拓者·毁灭",
+   "relation": "三月七的好伙伴",
+   "type": "ally",
+   "dir": "none",
+   "arrow": "none",
+   "from": null,
+   "to": null,
+   "notes": [
+    "三月七的好伙伴：作为三月七看重的伙伴，也被列入自己保护的范围内。 再创世计划中的重要一环，作为接过负世者，打算以其记忆作为蓝本重新编篡世界的因果。"
+   ],
+   "origins": [
+    "official"
+   ]
+  },
+  {
+   "source": "昔涟",
+   "target": "白厄",
+   "relation": "反抗命运的战友",
+   "type": "ally",
+   "dir": "none",
+   "arrow": "none",
+   "from": null,
+   "to": null,
+   "notes": [
+    "反抗命运的战友：童年的玩伴，翁法罗斯注定的救世主，历经三千万次轮回的背负世界之人。",
+    "不再无名的英雄：「负世」的篇章，怒火焚尽囚笼，英雄带来黎明的曙光。 愿「负世」照拂黎明。",
+    "反抗命运的战友：童年的玩伴，最初的战友。 昔涟以牺牲自我为代价重置岁月，换取了对抗铁墓诞生的命运的资格，自己定不会辜负她的付出。",
+    "共同拯救翁法罗斯的伙伴：「她总说，期盼着世界不需要救世主的存在。但她心中一定早已明了，只要有人深爱着这个世界，救世主注定降临。」"
+   ],
+   "origins": [
+    "official"
+   ]
+  },
+  {
+   "source": "昔涟",
+   "target": "海瑟音",
+   "relation": "逐火之旅的伙伴",
+   "type": "ally",
+   "dir": "none",
+   "arrow": "none",
+   "from": null,
+   "to": null,
+   "notes": [
+    "逐火之旅的伙伴：凯撒的锋刃，奥赫玛骑士统领，很随性的一个人。 成为半神后的海瑟音留在了海渊之下等待开拓者的到来，最终一起进行了「再创世」。",
+    "海洋的剑骑：「海洋」的篇章，浪花即便破碎，以千年坚守抵抗虚无。 愿「海洋」奏响欢宴。",
+    "救世主的伙伴：随天外的救世主一起到来的英雄。 她就像一首美妙的暖洋协奏曲，融汇所有的冰川和泥泞。",
+    "共同拯救翁法罗斯的伙伴：「她就像一首…美妙的暖洋协奏曲，融汇所有的冰川和泥泞。若有这只小海兔的陪伴，想必连深海也不愿增加一丝寒意吧。」"
+   ],
+   "origins": [
+    "official"
+   ]
+  },
+  {
+   "source": "昔涟",
+   "target": "开拓者·毁灭",
+   "relation": "共同写下诗篇的人",
+   "type": "ally",
+   "dir": "none",
+   "arrow": "none",
+   "from": null,
+   "to": null,
+   "notes": [
+    "翁法罗斯的救世主：不曾犹豫就肩负起了这个陌生世界的救世主，是带着所有人一同向前的开拓者，是能够托付性命的同伴，同时，也是值得等待的重要之人。",
+    "共同写下诗篇的人：哀丽秘榭的女儿与开拓者约定写下不同以往的诗。"
+   ],
+   "origins": [
+    "official",
+    "curated"
+   ]
+  },
+  {
+   "source": "昔涟",
+   "target": "赛飞儿",
+   "relation": "诡计的羁客",
+   "type": "ally",
+   "dir": "none",
+   "arrow": "none",
+   "from": null,
+   "to": null,
+   "notes": [
+    "诡计的羁客：「诡计」的篇章，谎言包裹真心，于永夜之中延续光明。 愿「诡计」皆为游戏。",
+    "共同拯救翁法罗斯的伙伴：「千千万万的记忆，巨细无遗的记录…等等，那她岂不是知道我的大宝库在哪里？！但如果是她，我也愿意分享一半…不，一大半好了…我最受不了对自己不好的人了！」"
+   ],
+   "origins": [
+    "official"
+   ]
+  },
+  {
+   "source": "昔涟",
+   "target": "遐蝶",
+   "relation": "来生的侍女",
+   "type": "ally",
+   "dir": "none",
+   "arrow": "none",
+   "from": null,
+   "to": null,
+   "notes": [
+    "来生的侍女：「生死」的篇章，拥抱迷途魂灵，令生死流转生生不息。 愿「生死」萌发新蕊。",
+    "共同拯救翁法罗斯的伙伴：「如果可以，我也想为她手作一朵绚烂的水晶花，作为礼物送给她…就像她曾赠予这世界的『记忆』，永不枯萎，永远无瑕。」"
+   ],
+   "origins": [
+    "official"
+   ]
+  },
+  {
+   "source": "昔涟",
+   "target": "万敌",
+   "relation": "纷争的冠军",
+   "type": "ally",
+   "dir": "none",
+   "arrow": "none",
+   "from": null,
+   "to": null,
+   "notes": [
+    "纷争的冠军：「纷争」的篇章，血与火的征途，伤痕写就孤独的荣光。 愿「纷争」加冕成王。",
+    "共同拯救翁法罗斯的伙伴：「她为翁法罗斯做的牺牲与努力，将让这片破碎的焦土，生长出繁荣的城邦。」"
+   ],
+   "origins": [
+    "official"
+   ]
+  },
+  {
+   "source": "昔涟",
+   "target": "阿格莱雅",
+   "relation": "浪漫的织者",
+   "type": "ally",
+   "dir": "none",
+   "arrow": "none",
+   "from": null,
+   "to": null,
+   "notes": [
+    "浪漫的织者：「浪漫」的篇章，引领逐火之旅，金丝为众人编织未来。 愿「浪漫」永不离席。",
+    "共同拯救翁法罗斯的伙伴：「当那一缕『爱』的丝线编入翁法罗斯的命运，她的每一道注视早已在万载岁月里，穿过我们跳动的心，将彼此的生命连缀成形。」"
+   ],
+   "origins": [
+    "official"
+   ]
+  },
+  {
+   "source": "昔涟",
+   "target": "缇宝",
+   "relation": "门径的圣子",
+   "type": "ally",
+   "dir": "none",
+   "arrow": "none",
+   "from": null,
+   "to": null,
+   "notes": [
+    "门径的圣子：「门径」的篇章，晓喻救世讯息，一千个明日冉冉升起。 愿「门径」再无别离。",
+    "共同拯救翁法罗斯的伙伴：「最后的最后，*我们*真的抵达了鲜花芬芳的西风尽头…这不是莫测的『神谕』，而是小涟与大家一次又一次的回忆，筑成的乐土呀。」"
+   ],
+   "origins": [
+    "official"
+   ]
+  },
+  {
+   "source": "白厄",
+   "target": "阿格莱雅",
+   "relation": "逐火之旅的领袖",
+   "type": "superior",
+   "dir": "t2s",
+   "arrow": "阿格莱雅→白厄",
+   "from": "阿格莱雅",
+   "to": "白厄",
+   "notes": [
+    "逐火之旅的领袖：逐火之旅的领导者。",
+    "逐火之旅的领袖：逐火之旅的领袖，发掘与栽培了自己的领导者。",
+    "逐火之旅的领袖：人性将失，未来要将逐火之旅交托给自己。",
+    "逐火的引路人：信赖自己的导师，在死后将逐火的使命托付于己。 一个无私的人，用金丝缝补了支离破碎的世界，也拯救了自己。",
+    "注定的传承者：被命运选中的救世主，完美的神性容器，无缺的黄金裔，注定背负沉重的救世使命。",
+    "注定的传承者：被命运选中的救世主，完美无缺的英雄，即将接过黄金裔领袖的重任。",
+    "传承者：信赖的后辈，身死之后将逐火的事业托付于他。 「你是翁法罗斯注定的负世者，通向翁法罗斯未来的门扉。」"
+   ],
+   "origins": [
+    "official"
+   ]
+  },
+  {
+   "source": "白厄",
+   "target": "缇宝",
+   "relation": "值得信赖的老师",
+   "type": "mentor",
+   "dir": "t2s",
+   "arrow": "缇宝→白厄",
+   "from": "缇宝",
+   "to": "白厄",
+   "notes": [
+    "值得信赖的老师：神谕的传递者，也是自己作为黄金裔的老师和前辈，虽然有些孩童心性，但是资历深厚，值得信赖。",
+    "值得信赖的老师：最初的半神，窃夺「门径」火种的黄金裔，神谕的传递者，也是自己作为黄金裔的老师和前辈。",
+    "预言中的救世主：逐火之旅的战友，自己的学生，被预言选中的救世主。",
+    "预言中的救世主：阿格莱雅死后，背负起领袖职责和负世重担的黄金裔。 相信着白厄会成为新一轮的朝阳，在「明天」与所有人再度相见。"
+   ],
+   "origins": [
+    "official"
+   ]
+  },
+  {
+   "source": "白厄",
+   "target": "万敌",
+   "relation": "旗鼓相当的对手",
+   "type": "ally",
+   "dir": "none",
+   "arrow": "none",
+   "from": null,
+   "to": null,
+   "notes": [
+    "旗鼓相当的对手：无可挑剔的战士，与自己旗鼓相当的对手，逐火之旅的战友。",
+    "受托弱点之人：接过「纷争」火种的半神，翁法罗斯的守护者，将弱点托付给自己，值得信任的战友。",
+    "旗鼓相当的对手：能让自己尽兴一战的对手，逐火之旅的战友，无缺的救世主。",
+    "托付弱点之人：逐火之旅的战友，背负着更沉重的命运，自己托付了弱点之人。"
+   ],
+   "origins": [
+    "official"
+   ]
+  },
+  {
+   "source": "白厄",
+   "target": "遐蝶",
+   "relation": "逐火之旅的战友",
+   "type": "ally",
+   "dir": "none",
+   "arrow": "none",
+   "from": null,
+   "to": null,
+   "notes": [
+    "逐火之旅的战友：逐火之旅的战友，树庭求学时期的同学，被死亡诅咒困扰之人。",
+    "逐火之旅的战友：接过「死亡」火种的半神，令世间生死重新流转。",
+    "树庭的同学：逐火之旅的战友，板正的救世主。"
+   ],
+   "origins": [
+    "official"
+   ]
+  },
+  {
+   "source": "白厄",
+   "target": "开拓者·毁灭",
+   "relation": "逐火之旅的同行者",
+   "type": "ally",
+   "dir": "none",
+   "arrow": "none",
+   "from": null,
+   "to": null,
+   "notes": [
+    "战力非凡的搭档：来自天外的异乡人，可以信任的搭档，和自己长得有点相似。",
+    "翁法罗斯最大的奇迹：自己心中的英雄，翁法罗斯最大的奇迹。 自己最正确的决定就是相信二位开拓者，并和他们成为伙伴，绝不会让他们的旅途在翁法罗斯画上句号。",
+    "心中的英雄：伙伴、战友，儿时的憧憬，幻想中引领自己毅然前进的「救世主」。 接过每一个自己所背负的一切，最后一次重回时间起点，改写翁法罗斯注定逝去结局的英雄。",
+    "心中的英雄：致开拓者，我的伙伴：  「曾有英雄点燃骨血，铸就斩破黑暗的长剑。」 在哀丽秘榭的麦田里，母亲向年幼的我讲述过这样一段童谣： 那位英雄没有就此死去，终有一日会回到我们身边。 我对此深信不疑。  但当麦草被烈火焚烧殆尽，他没有来临。 当无边黑潮吞没世界，他没有来临。 我无数次期盼、无数次祈求， 但浸染金血的时针一次次落回原点…明天依旧触不可及。  当黎明坠落大地，为我指明前路的，是你。 替我肩负起万千火种之重的，是你。 将我从枯焦骸骨垒砌而成的炼狱中赎救， 为翁法罗斯写下新的明天的，是你。  我一直等待着的英雄…是你。 也同样是你告诉我，我也能够成为心中的英雄， 同你一样，开拓属于自己的命运。  请收下这与「侵晨」一炉同铸的造物，我们曾并肩战斗的证明。 一团无名的铁浆，以伤痕锤炼，以苦痛淬火，辗转千万年轮转的光阴， 最终在你的目光中得以塑形。  愿它能给予你相信曙光终会到来的勇气， 我的英雄。  白厄",
+    "逐火之旅的同行者：无名的英雄与天外来客一同走过翁法罗斯。"
+   ],
+   "origins": [
+    "official",
+    "curated"
+   ]
+  },
+  {
+   "source": "白厄",
+   "target": "赛飞儿",
+   "relation": "牺牲的战友",
+   "type": "ally",
+   "dir": "none",
+   "arrow": "none",
+   "from": null,
+   "to": null,
+   "notes": [
+    "牺牲的战友：接过「诡计」火种的半神。 用谎言守护了世界数百年的人，为保护刻法勒的火种而死的同伴。",
+    "“救世小子”：“裁缝女”的继承者，黄金裔中的后辈。 看着没什么心眼，说话坦诚，招人待见，还有着令人信服的气质。接受他的委托后盗走刻法勒的火种，帮助黄金裔拖延了盗火行者的脚步。"
+   ],
+   "origins": [
+    "official"
+   ]
+  },
+  {
+   "source": "缇宝",
+   "target": "阿格莱雅",
+   "relation": "逐火之旅的学生",
+   "type": "mentor",
+   "dir": "s2t",
+   "arrow": "缇宝→阿格莱雅",
+   "from": "缇宝",
+   "to": "阿格莱雅",
+   "notes": [
+    "逐火之旅的学生：第二次逐火之旅的领导者，自己的学生，千百年的好友，协助她组建黄金裔同盟。",
+    "逐火之旅的学生：千百年来的学生与好友。 为逐火之旅殚精竭虑，最终也为了所有人的明天毫无保留地燃烧了自己。",
+    "逐火之旅的老师：值得尊敬的老师，逐火之旅的发起者，最受奥赫玛平民欢迎者，热衷于与街坊打交道，背负着沉重的命运。"
+   ],
+   "origins": [
+    "official"
+   ]
+  },
+  {
+   "source": "缇宝",
+   "target": "万敌",
+   "relation": "值得尊敬的老师",
+   "type": "mentor",
+   "dir": "t2s",
+   "arrow": "万敌→缇宝",
+   "from": "万敌",
+   "to": "缇宝",
+   "notes": [
+    "英勇的悬锋盟友：逐火之旅的战友。悬锋城与奥赫玛积怨已久，调和两者矛盾的同时，也帮助他真正融入黄金裔之中。",
+    "英勇的悬锋盟友：接过「纷争」火种的半神，翁法罗斯的守护者。",
+    "值得尊敬的老师：逐火之旅的发起者，自己作为黄金裔的老师和前辈。"
+   ],
+   "origins": [
+    "official"
+   ]
+  },
+  {
+   "source": "缇宝",
+   "target": "遐蝶",
+   "relation": "逐火之旅的老师",
+   "type": "mentor",
+   "dir": "t2s",
+   "arrow": "遐蝶→缇宝",
+   "from": "遐蝶",
+   "to": "缇宝",
+   "notes": [
+    "身负死亡诅咒的好友：逐火之旅的战友，被死亡诅咒所困的少女，总是尽力给予她温暖与关怀。",
+    "接过「死亡」火种的好友：接过「死亡」火种的半神，最温柔的黄金裔。",
+    "逐火之旅的老师：逐火之旅的战友，播散神谕的先驱，总以欢声笑语给予自己信心。",
+    "接纳了自己的老师：逐火之旅的战友，很感激她为自己做的一切。"
+   ],
+   "origins": [
+    "official"
+   ]
+  },
+  {
+   "source": "缇宝",
+   "target": "开拓者·毁灭",
+   "relation": "天外的新同伴",
+   "type": "ally",
+   "dir": "none",
+   "arrow": "none",
+   "from": null,
+   "to": null,
+   "notes": [
+    "天外的新同伴：来自天外的异乡人，可靠的伙伴，在使用欧洛尼斯之力上天赋异禀。",
+    "天外的新同伴：可靠的伙伴，在使用欧洛尼斯之力上天赋异禀，已接过「岁月」火种的半神。",
+    "天外的救世主：神谕中来自天外的「救世主」。 终将在未来回归并拯救世界。",
+    "天外的救世主：致亲爱的小灰：  本来这封信说好了是缇宝来写。 但缇安也有很多话想跟你说！ 最后，*我们*决定一人写一句…  *我们*曾为散落四方的城邦传递预言。 *我们*曾为各处征战的黄金裔开启门扉！ *我们*曾在雅努斯的神殿聆听神谕…  最后，是小灰完成了*我们*「逐火」的心愿。 小灰为我们打跑了黑潮里冒出来的坏蛋！ 是小灰拯救了翁法罗斯的大家…  所以，请收下这只缇宝的毛绒娃娃， 是缇安把棉花塞进娃娃里的，可辛苦了！ 是缇宁一针一线，把它缝了起来…  *我们*三个写的话已经够多啦，接下来，是一千个*我们*的祝愿： 愿你乘着西风，去往鲜花盛开的地方。不必为离别而悲伤， 我们——明天见！  缇里西庇俄丝"
+   ],
+   "origins": [
+    "official"
+   ]
+  },
+  {
+   "source": "缇宝",
+   "target": "赛飞儿",
+   "relation": "疼爱自己的阿姐",
+   "type": "family",
+   "dir": "none",
+   "arrow": "none",
+   "from": null,
+   "to": null,
+   "notes": [
+    "逐火之旅的伙伴：喜欢钱财，喜欢小鱼干和逗猫棒，对她有额外的关照。",
+    "逐火之旅的伙伴：神谕的传播者，逐火之旅的领导者之一。",
+    "疼爱自己的阿姐：神谕的传播者，逐火之旅的领导者之一。 疼爱自己的阿姐们，总是往自己的小背包里塞满各种吃的。"
+   ],
+   "origins": [
+    "official"
+   ]
+  },
+  {
+   "source": "缇宝",
+   "target": "海瑟音",
+   "relation": "凯撒座下的同僚",
+   "type": "superior",
+   "dir": "t2s",
+   "arrow": "海瑟音→缇宝",
+   "from": "海瑟音",
+   "to": "缇宝",
+   "notes": [
+    "凯撒座下的同僚：刻律德菈的剑旗爵，常哼唱大海的歌谣，陪伴自己度过孤单的时光。 成为「海洋」之半神后留在了海渊之下。",
+    "知晓神谕的圣女：知晓神谕的圣女，奥赫玛的先知，凯撒曾经的质子与「命运爵」。 有着纯粹的心性。与自己一起开启了通往创世涡心的洋流，为救世主铺路。"
+   ],
+   "origins": [
+    "official"
+   ]
+  },
+  {
+   "source": "遐蝶",
+   "target": "阿格莱雅",
+   "relation": "信任的领导者",
+   "type": "superior",
+   "dir": "t2s",
+   "arrow": "阿格莱雅→遐蝶",
+   "from": "阿格莱雅",
+   "to": "遐蝶",
+   "notes": [
+    "信任的领导者：逐火之旅的领导者，为奥赫玛做出了许多奉献。",
+    "接纳了自己的领导者：逐火之旅的领导者，为奥赫玛做出了许多奉献。也帮助自己融入奥赫玛，很感激她接纳了自己。",
+    "身负死亡诅咒的同伴：逐火之旅的战友，寻索「死亡」火种的黄金裔，虽然会为接触的生灵带去死亡，珍视生命，待人温柔。",
+    "身负死亡诅咒的同伴：逐火之旅的战友，虽然会为接触的生灵带去死亡，却热爱生活，珍视生命。",
+    "与宿命和解的同伴：接过「死亡」火种的半神，终于从过去中走出，找到千年来寻找的答案。"
+   ],
+   "origins": [
+    "official"
+   ]
+  },
+  {
+   "source": "遐蝶",
+   "target": "万敌",
+   "relation": "悬锋城的战友",
+   "type": "ally",
+   "dir": "none",
+   "arrow": "none",
+   "from": null,
+   "to": null,
+   "notes": [
+    "悬锋城的战友：逐火之旅的战友。",
+    "逐火之旅的战友：逐火之旅的战友，寻索「死亡」火种的黄金裔。",
+    "逐火之旅的战友：逐火之旅的战友，注定接过「死亡」的火种。"
+   ],
+   "origins": [
+    "official"
+   ]
+  },
+  {
+   "source": "遐蝶",
+   "target": "开拓者·毁灭",
+   "relation": "异乡的旅者",
+   "type": "ally",
+   "dir": "none",
+   "arrow": "none",
+   "from": null,
+   "to": null,
+   "notes": [
+    "异乡的旅者：来自天外的异乡人，比自己更懂得战斗的意义，或许能成为自己的启迪。",
+    "亲手拯救的唯一生命：可靠的同伴，似乎能免疫自己的「死亡之触」，令人有些在意。",
+    "亲手拯救的唯一生命：接过「岁月」火种的半神，是此生自己唯一拯救的生命。",
+    "亲手拯救的唯一生命：致开拓者阁下：  当寒风吹彻送来第一缕飘雪， 我们踏入泥泞荒原。 收殓将死的花瓣， 使它枯槁的哀荣，停柩于旅人的花冠。  往返脚印，编织小径。 未曾想过，有一日我会戴上花冠， 走出雪境，那切割生死的晨昏线， 去往尚有余温的世间， 与人相拥时面露笑颜。  在启程前，请捎上这副花冠吧。 它曾陪我行过漫漫长路，涉过幽冥的滩涂， 赶赴西风尽头，伫望世界的新生。  愿那些花儿如翩跹的蝴蝶， 在你疲倦之时，停歇在你的额间， 愿生命的温软与你常伴。   遐蝶"
+   ],
+   "origins": [
+    "official"
+   ]
+  },
+  {
+   "source": "遐蝶",
+   "target": "赛飞儿",
+   "relation": "随心所欲的前辈",
+   "type": "mentor",
+   "dir": "t2s",
+   "arrow": "赛飞儿→遐蝶",
+   "from": "赛飞儿",
+   "to": "遐蝶",
+   "notes": [
+    "随心所欲的前辈：接过「诡计」火种的半神，性格狡黠，随心所欲。",
+    "“蜗居公主”：“蜗居公主”，天性温柔善良，社交恐惧症十级选手，纯净得像朵花蕾，很好逗！"
+   ],
+   "origins": [
+    "official"
+   ]
+  },
+  {
+   "source": "海瑟音",
+   "target": "阿格莱雅",
+   "relation": "凯撒座下的同僚",
+   "type": "superior",
+   "dir": "t2s",
+   "arrow": "阿格莱雅→海瑟音",
+   "from": "阿格莱雅",
+   "to": "海瑟音",
+   "notes": [
+    "凯撒座下的同僚：「浪漫」之半神，一尾成日忙碌摇鳍的金鳟，也是接过刻律德菈逐火重任的最佳人选。 擅长缝制衣物，而且总会赠自己新衣。 自己成为「海洋」之半神后也会带着黄金裔们前来看望自己。在她死后曾留下神性的碎片，陪伴了自己漫长的岁月，但最终也难以为继。",
+    "来自海洋的同伴：「海洋」之半神，孤独的奏浪者，生命中最悦耳的浪花，在接过火种后留在了海渊之下。 初识时是条迷茫又别扭的鱼，未参透人类世界的约定俗成，送给她的礼服总是破损，认为穿衣蔽体是人类强加给自己的束缚；深陷旧日欢宴的人，习惯了孤独，却又从未摆脱对孤独的恐惧。 但她这段至美的旋律，也曾在黑暗的时光中抚慰自己的心绪。"
+   ],
+   "origins": [
+    "official"
+   ]
+  },
+  {
+   "source": "海瑟音",
+   "target": "赛飞儿",
+   "relation": "逐火之旅的战友",
+   "type": "ally",
+   "dir": "none",
+   "arrow": "none",
+   "from": null,
+   "to": null,
+   "notes": [
+    "逐火之旅的战友：一尾身姿灵巧的小猫鱼，还不会被鲜美的鱼饵钓起。 赛飞儿和那刻夏布局困住来古士并交给自己看守，代价是他们的生命。",
+    "海妖公主：「海洋」之半神，逐火之旅的一员，海妖公主。 她送给自己的小鱼干是翁法罗斯一绝，而且永远都吃不完！ 协助自己和那刻夏困住了来古士，并留下看守他。"
+   ],
+   "origins": [
+    "official"
+   ]
+  },
+  {
+   "source": "海瑟音",
+   "target": "开拓者·毁灭",
+   "relation": "天外的救世主",
+   "type": "ally",
+   "dir": "none",
+   "arrow": "none",
+   "from": null,
+   "to": null,
+   "notes": [
+    "天外的救世主：神谕中天外的「救世主」，等待千年之人。 他/她游动时的尾流仿佛让人回到港湾般温暖，又如登上岛屿般轻松。",
+    "天外的救世主：致小灰鱼儿：  我早已知晓，从天外之海游来的你，终会重返更广阔的汪洋。 因为你的眼中总是藏着波涛，那是渴望自由的游鱼才有的目光。  而另一只目盲的小鱼，难舍眼前的蜃景，留恋洞中的水潭—— 那闪耀的星海，于我而言太过刺眼， 毕竟在这水潭中，我也有自己的太阳。  所以，在那星火烧入你的天空之前， 收下这份礼物，让耳边的回忆代我随行吧—— 这枚骨螺中寄宿着涛声， 我偶尔会把它贴在脸颊，聆听故乡的潮音。  若你遨游寰宇之遐，能借它记起你曾置身的水潭， 记起你饮下的蜜酿，和我们未完的盛宴… 那就再好不过了，对吧？  ♫愿你的开拓永不停歇，直至星海之畔♫ ♫愿你能行于坦途之上，耳边涛声常伴♫  海列屈拉"
+   ],
+   "origins": [
+    "official"
+   ]
+  },
+  {
+   "source": "阿格莱雅",
+   "target": "万敌",
+   "relation": "逐火之旅的领袖",
+   "type": "superior",
+   "dir": "t2s",
+   "arrow": "万敌→阿格莱雅",
+   "from": "万敌",
+   "to": "阿格莱雅",
+   "notes": [
+    "英勇的悬锋盟友：逐火之旅的战友，代表了悬锋城的盟友。最英勇的悬锋人，但某种程度上也是最不像悬锋人的悬锋人。",
+    "英勇的悬锋盟友：接过「纷争」火种的半神，但也掩盖不了少年心性。",
+    "英勇的悬锋盟友：接过「纷争」火种的半神，翁法罗斯守护者。也有着掩盖不了的少年心性。",
+    "奥赫玛的盟友：逐火之旅的领导者，代表了奥赫玛的盟友。",
+    "逐火之旅的领袖：逐火之旅的领导者，有着属于领袖的引力和能令人认同的理念。"
+   ],
+   "origins": [
+    "official"
+   ]
+  },
+  {
+   "source": "阿格莱雅",
+   "target": "开拓者·毁灭",
+   "relation": "来自天外的援军",
+   "type": "ally",
+   "dir": "none",
+   "arrow": "none",
+   "from": null,
+   "to": null,
+   "notes": [
+    "来自天外的援军：来自天外的异乡人，实力强大，率直敏锐，也有叛逆的一面。服装令人印象深刻。",
+    "来自天外的援军：来自天外的异乡人，实力强大，需要争取的盟友，准备接过「岁月」火种。",
+    "接过「岁月」火种的盟友：接过「岁月」火种的半神，是值得托付逐火事业的盟友。",
+    "接过「岁月」火种的盟友：来自天外的开拓者，逐火之旅的强大助力。",
+    "天外的救世主：致开拓者阁下：  我曾为世界的变迭穿针引线，试图编织美好的命运， 我们孤独逐火，直到灰白的光自天外降临；  如今，我难得放下沉重的织机，为自己裁衣， 而你们却又将启程，渐远的行迹让丝线也无法追及。  赠你的饰品并未倾注神性，由我亲手穿制，贴身珍藏； 因我并不想让它变得沉重，而是如一片羽毛停在你的手腕， 点缀你的身体，衬映你的魂灵。  即便是我，也看不见你将踏上的未来，但我会为你祝祈—— 「开拓」为宇宙带来交织如丝弦的星轨， 愿那些银色丝弦，为你引路，因你嗡鸣。   阿格莱雅"
+   ],
+   "origins": [
+    "official"
+   ]
+  },
+  {
+   "source": "阿格莱雅",
+   "target": "赛飞儿",
+   "relation": "合作伙伴",
+   "type": "ally",
+   "dir": "none",
+   "arrow": "none",
+   "from": null,
+   "to": null,
+   "notes": [
+    "合作伙伴：接过「诡计」火种的半神，狡黠慵懒，逃避责任与命运的黄金裔。",
+    "逃避自己的伙伴：不知因何缘由远离自己、逃避使命的伙伴。 自己千年前收留的无家可归的孩子，初见便识出她的善良与潜力，相信她是承载「诡计」神职的命运之女。 花费千百年也未能想到她离去的原因，这个误会直到自己死前也未解开。",
+    "合作伙伴：“裁缝女”，奥赫玛最富有的人，喜欢用弯弯绕绕的手段，避之不及。",
+    "不敢面对的人：“裁缝女”，奥赫玛最富有的人，在背负了千年之谎后不得不离开的伙伴。 千年前收留了自己的黄金裔，撒下黎明机器的谎言后，因担忧被过于了解自己的阿格莱雅识破，不得不踏上千年的自我放逐之旅。"
+   ],
+   "origins": [
+    "official"
+   ]
+  },
+  {
+   "source": "赛飞儿",
+   "target": "开拓者·毁灭",
+   "relation": "有趣的异乡人",
+   "type": "ally",
+   "dir": "none",
+   "arrow": "none",
+   "from": null,
+   "to": null,
+   "notes": [
+    "有趣的异乡人：初次见面的异乡人，黄金裔们的新伙伴，性格十分有趣。",
+    "有趣的异乡人：逐火之旅的盟友，接过「岁月」火种的半神。 是个老实人，幽默风趣、实力惊人。和自己一样喜欢寻找宝藏。",
+    "有趣的异乡人：给灰子：  嘿！这应该是我给你的最后一封怪盗信了哦！ 「每当收到怪盗信，就要做好失去什么的准备。」 你应该有了这样的觉悟吧？  但是——放心！ 不用捂住口袋，也别忙着翻检行囊。我不是要来偷盗—— 而是要来和你进行最后的「分赃」。  这枚猫咪硬币，每次作案都陪在我的身旁。 不论遇到什么窘境，只要手握着它，就都能逢凶化吉。 不管有什么烦心事，将它抛起，再接住，脚步便会变得无端轻盈。  我呀，早就看出来你心里也总是藏着不少「诡计」， 若非如此，你又怎能骗过命运，盗取未来呢？ 所以，就把这份「赃物」交给你吧—— 愿它能让你躲过每一次厄运，让你得到一切想要的东西。   猫咪怪盗，敬上"
+   ],
+   "origins": [
+    "official"
+   ]
+  },
+  {
+   "source": "万敌",
+   "target": "开拓者·毁灭",
+   "relation": "喜欢说胡话的异乡人",
+   "type": "ally",
+   "dir": "none",
+   "arrow": "none",
+   "from": null,
+   "to": null,
+   "notes": [
+    "喜欢说胡话的异乡人：来自天外的异乡人，喜欢说胡话。",
+    "喜欢说胡话的异乡人：来自天外的异乡人，对翁法罗斯的未来意义非凡。",
+    "喜欢说胡话的异乡人：致开拓者：  我愿与你争锋于苍穹之上，但仍需肩负苍穹之下的使命， 因为即使战火止息，和平的道路仍需有人引领。  救世的恩义难以言表，我唯能奉上酒杯， 与你欢饮这鲜红的石榴蜜酿， 贺祝此世的胜利，遥敬星空的征途。  你的远征必有群狼环伺，毒蛇匿影， 若你需要纷争的怒火，我便将我的悬锋，连同血骨一齐奉上， 伴你行疆拓域，助你常战常胜。  当你凯旋之日，我将再度为你举杯。 迈德漠斯"
+   ],
+   "origins": [
+    "official"
+   ]
+  },
+  {
+   "source": "姬子",
+   "target": "瓦尔特",
+   "relation": "并肩多年的列车伙伴",
+   "type": "ally",
+   "dir": "none",
+   "arrow": "none",
+   "from": null,
+   "to": null,
+   "notes": [
+    "并肩多年的列车伙伴：两人自列车修复后共同航行至今。",
+    "共同见证列车再度启行：姬子的另一形态，与瓦尔特同在列车上。"
+   ],
+   "origins": [
+    "curated"
+   ]
+  },
+  {
+   "source": "姬子",
+   "target": "丹恒",
+   "relation": "列车同僚",
+   "type": "ally",
+   "dir": "none",
+   "arrow": "none",
+   "from": null,
+   "to": null,
+   "notes": [
+    "列车同僚：丹恒以护卫身份登上星穹列车。"
+   ],
+   "origins": [
+    "curated"
+   ]
+  },
+  {
+   "source": "姬子",
+   "target": "三月七",
+   "relation": "列车同僚",
+   "type": "ally",
+   "dir": "none",
+   "arrow": "none",
+   "from": null,
+   "to": null,
+   "notes": [
+    "列车同僚：三月七自冰封中醒来后由姬子照料。"
+   ],
+   "origins": [
+    "curated"
+   ]
+  },
+  {
+   "source": "姬子",
+   "target": "开拓者·毁灭",
+   "relation": "引领新无名客的领航员",
+   "type": "mentor",
+   "dir": "s2t",
+   "arrow": "姬子→开拓者·毁灭",
+   "from": "姬子",
+   "to": "开拓者·毁灭",
+   "notes": [
+    "引领新无名客的领航员：姬子把开拓者带上列车并教会他何为「开拓」。"
+   ],
+   "origins": [
+    "curated"
+   ]
+  },
+  {
+   "source": "瓦尔特",
+   "target": "开拓者·毁灭",
+   "relation": "列车上最年长的前辈",
+   "type": "mentor",
+   "dir": "s2t",
+   "arrow": "瓦尔特→开拓者·毁灭",
+   "from": "瓦尔特",
+   "to": "开拓者·毁灭",
+   "notes": [
+    "列车上最年长的前辈：瓦尔特以逆熵盟主的阅历指点年轻的无名客。"
+   ],
+   "origins": [
+    "curated"
+   ]
+  },
+  {
+   "source": "瓦尔特",
+   "target": "三月七",
+   "relation": "列车同僚",
+   "type": "ally",
+   "dir": "none",
+   "arrow": "none",
+   "from": null,
+   "to": null,
+   "notes": [
+    "列车同僚：同在列车上旅行的伙伴。"
+   ],
+   "origins": [
+    "curated"
+   ]
+  },
+  {
+   "source": "丹恒",
+   "target": "三月七",
+   "relation": "列车同僚",
+   "type": "ally",
+   "dir": "none",
+   "arrow": "none",
+   "from": null,
+   "to": null,
+   "notes": [
+    "列车同僚：常年同行的伙伴。"
+   ],
+   "origins": [
+    "curated"
+   ]
+  },
+  {
+   "source": "丹恒",
+   "target": "开拓者·毁灭",
+   "relation": "列车同僚",
+   "type": "ally",
+   "dir": "none",
+   "arrow": "none",
+   "from": null,
+   "to": null,
+   "notes": [
+    "列车同僚：并肩穿越数個世界的同行者。"
+   ],
+   "origins": [
+    "curated"
+   ]
+  },
+  {
+   "source": "星期日",
+   "target": "知更鸟",
+   "relation": "亲生兄妹",
+   "type": "family",
+   "dir": "none",
+   "arrow": "none",
+   "from": null,
+   "to": null,
+   "notes": [
+    "亲生兄妹：橡木家系的双子，匹诺康尼篇的核心羁绊。"
+   ],
+   "origins": [
+    "curated"
+   ]
+  },
+  {
+   "source": "星期日",
+   "target": "开拓者·毁灭",
+   "relation": "同行于匹诺康尼的旅伴",
+   "type": "ally",
+   "dir": "none",
+   "arrow": "none",
+   "from": null,
+   "to": null,
+   "notes": [
+    "同行于匹诺康尼的旅伴：「秩序」的美梦落幕后的同行者。"
+   ],
+   "origins": [
+    "curated"
+   ]
+  },
+  {
+   "source": "卡芙卡",
+   "target": "银狼",
+   "relation": "长期搭档",
+   "type": "ally",
+   "dir": "none",
+   "arrow": "none",
+   "from": null,
+   "to": null,
+   "notes": [
+    "长期搭档：两人常一同执行剧本中的任务。"
+   ],
+   "origins": [
+    "curated"
+   ]
+  },
+  {
+   "source": "卡芙卡",
+   "target": "刃",
+   "relation": "同行者",
+   "type": "ally",
+   "dir": "none",
+   "arrow": "none",
+   "from": null,
+   "to": null,
+   "notes": [
+    "同行者：同属星核猎手。"
+   ],
+   "origins": [
+    "curated"
+   ]
+  },
+  {
+   "source": "卡芙卡",
+   "target": "流萤",
+   "relation": "同行者",
+   "type": "ally",
+   "dir": "none",
+   "arrow": "none",
+   "from": null,
+   "to": null,
+   "notes": [
+    "同行者：同属星核猎手。"
+   ],
+   "origins": [
+    "curated"
+   ]
+  },
+  {
+   "source": "银狼",
+   "target": "流萤",
+   "relation": "游戏搭子",
+   "type": "ally",
+   "dir": "none",
+   "arrow": "none",
+   "from": null,
+   "to": null,
+   "notes": [
+    "游戏搭子：银狼把每一次任务都当成游戏。"
+   ],
+   "origins": [
+    "curated"
+   ]
+  },
+  {
+   "source": "刃",
+   "target": "流萤",
+   "relation": "同行者",
+   "type": "ally",
+   "dir": "none",
+   "arrow": "none",
+   "from": null,
+   "to": null,
+   "notes": [
+    "同行者：同属星核猎手。"
+   ],
+   "origins": [
+    "curated"
+   ]
+  },
+  {
+   "source": "刃",
+   "target": "镜流",
+   "relation": "旧日同袍，恩怨难解",
+   "type": "enemy",
+   "dir": "both",
+   "arrow": "both",
+   "from": null,
+   "to": null,
+   "notes": [
+    "旧日同袍，恩怨难解：云上五骁凋零后，两人在罗浮兵刃相向。"
+   ],
+   "origins": [
+    "curated"
+   ]
+  },
+  {
+   "source": "丹恒",
+   "target": "刃",
+   "relation": "纠缠不散的宿怨",
+   "type": "enemy",
+   "dir": "both",
+   "arrow": "both",
+   "from": null,
+   "to": null,
+   "notes": [
+    "纠缠不散的宿怨：刃把饮月君留下的债记在丹恒身上。",
+    "同为云上五骁：应星与饮月君曾是最要好的同伴。"
+   ],
+   "origins": [
+    "curated"
+   ]
+  },
+  {
+   "source": "镜流",
+   "target": "景元",
+   "relation": "同为云上五骁",
+   "type": "ally",
+   "dir": "none",
+   "arrow": "none",
+   "from": null,
+   "to": null,
+   "notes": [
+    "同为云上五骁：五骁曾在罗浮并肩。"
+   ],
+   "origins": [
+    "curated"
+   ]
+  },
+  {
+   "source": "镜流",
+   "target": "丹恒",
+   "relation": "同为云上五骁",
+   "type": "ally",
+   "dir": "none",
+   "arrow": "none",
+   "from": null,
+   "to": null,
+   "notes": [
+    "同为云上五骁：饮月君与镜流同为五骁成员。"
+   ],
+   "origins": [
+    "curated"
+   ]
+  },
+  {
+   "source": "景元",
+   "target": "丹恒",
+   "relation": "云上五骁旧识",
+   "type": "ally",
+   "dir": "none",
+   "arrow": "none",
+   "from": null,
+   "to": null,
+   "notes": [
+    "云上五骁旧识：将军与饮月君相识于数百年前。"
+   ],
+   "origins": [
+    "curated"
+   ]
+  },
+  {
+   "source": "希儿",
+   "target": "布洛妮娅",
+   "relation": "地火与大守护者，一同守护雅利洛-VI",
+   "type": "ally",
+   "dir": "none",
+   "arrow": "none",
+   "from": null,
+   "to": null,
+   "notes": [
+    "地火与大守护者，一同守护雅利洛-VI：上下层区和解后并肩重建城邦。"
+   ],
+   "origins": [
+    "curated"
+   ]
+  },
+  {
+   "source": "杰帕德",
+   "target": "希露瓦",
+   "relation": "姐弟",
+   "type": "family",
+   "dir": "none",
+   "arrow": "none",
+   "from": null,
+   "to": null,
+   "notes": [
+    "姐弟：朗道家的三姐弟之一。"
+   ],
+   "origins": [
+    "curated"
+   ]
+  },
+  {
+   "source": "杰帕德",
+   "target": "玲可",
+   "relation": "兄妹",
+   "type": "family",
+   "dir": "none",
+   "arrow": "none",
+   "from": null,
+   "to": null,
+   "notes": [
+    "兄妹：朗道家的三姐弟之一。"
+   ],
+   "origins": [
+    "curated"
+   ]
+  },
+  {
+   "source": "希露瓦",
+   "target": "玲可",
+   "relation": "姐妹",
+   "type": "family",
+   "dir": "none",
+   "arrow": "none",
+   "from": null,
+   "to": null,
+   "notes": [
+    "姐妹：朗道家的三姐弟之一。"
+   ],
+   "origins": [
+    "curated"
+   ]
+  },
+  {
+   "source": "杰帕德",
+   "target": "布洛妮娅",
+   "relation": "银鬃铁卫戍卫官效忠于大守护者",
+   "type": "superior",
+   "dir": "t2s",
+   "arrow": "布洛妮娅→杰帕德",
+   "from": "布洛妮娅",
+   "to": "杰帕德",
+   "notes": [
+    "银鬃铁卫戍卫官效忠于大守护者：铁卫的最高指挥官听命于大守护者。"
+   ],
+   "origins": [
+    "curated"
+   ]
+  },
+  {
+   "source": "佩拉",
+   "target": "杰帕德",
+   "relation": "银鬃铁卫情报官",
+   "type": "superior",
+   "dir": "t2s",
+   "arrow": "杰帕德→佩拉",
+   "from": "杰帕德",
+   "to": "佩拉",
+   "notes": [
+    "银鬃铁卫情报官：佩拉担任铁卫的情报工作，向戍卫官汇报。"
+   ],
+   "origins": [
+    "curated"
+   ]
+  },
+  {
+   "source": "娜塔莎",
+   "target": "虎克",
+   "relation": "照看鼹鼠党的地下医生",
+   "type": "mentor",
+   "dir": "s2t",
+   "arrow": "娜塔莎→虎克",
+   "from": "娜塔莎",
+   "to": "虎克",
+   "notes": [
+    "照看鼹鼠党的地下医生：下层区的孩子们都在娜塔莎的诊所里长大。"
+   ],
+   "origins": [
+    "curated"
+   ]
+  },
+  {
+   "source": "卢卡",
+   "target": "希儿",
+   "relation": "地火同僚",
+   "type": "ally",
+   "dir": "none",
+   "arrow": "none",
+   "from": null,
+   "to": null,
+   "notes": [
+    "地火同僚：两人都是下层区「地火」的成员。"
+   ],
+   "origins": [
+    "curated"
+   ]
+  },
+  {
+   "source": "桑博",
+   "target": "开拓者·毁灭",
+   "relation": "贝洛伯格的老熟人",
+   "type": "ally",
+   "dir": "none",
+   "arrow": "none",
+   "from": null,
+   "to": null,
+   "notes": [
+    "贝洛伯格的老熟人：自称「蓝弟弟」的行商，屡次与开拓者打交道。"
+   ],
+   "origins": [
+    "curated"
+   ]
+  },
+  {
+   "source": "托帕&账账",
+   "target": "布洛妮娅",
+   "relation": "代表公司向雅利洛-VI 追讨债务",
+   "type": "enemy",
+   "dir": "both",
+   "arrow": "both",
+   "from": null,
+   "to": null,
+   "notes": [
+    "代表公司向雅利洛-VI 追讨债务：星际和平公司的债务清算使团，与贝洛伯格一度剑拔弩张。"
+   ],
+   "origins": [
+    "curated"
+   ]
+  },
+  {
+   "source": "景元",
+   "target": "彦卿",
+   "relation": "亲授剑术的师徒",
+   "type": "mentor",
+   "dir": "s2t",
+   "arrow": "景元→彦卿",
+   "from": "景元",
+   "to": "彦卿",
+   "notes": [
+    "亲授剑术的师徒：神策府将军景元亲自教导少年彦卿。"
+   ],
+   "origins": [
+    "curated"
+   ]
+  },
+  {
+   "source": "景元",
+   "target": "符玄",
+   "relation": "将军与太卜",
+   "type": "superior",
+   "dir": "s2t",
+   "arrow": "景元→符玄",
+   "from": "景元",
+   "to": "符玄",
+   "notes": [
+    "将军与太卜：太卜司太卜辅佐神策府将军。"
+   ],
+   "origins": [
+    "curated"
+   ]
+  },
+  {
+   "source": "景元",
+   "target": "灵砂",
+   "relation": "将军与丹鼎司司鼎",
+   "type": "superior",
+   "dir": "s2t",
+   "arrow": "景元→灵砂",
+   "from": "景元",
+   "to": "灵砂",
+   "notes": [
+    "将军与丹鼎司司鼎：丹鼎司司鼎听命于云骑军统领。"
+   ],
+   "origins": [
+    "curated"
+   ]
+  },
+  {
+   "source": "飞霄",
+   "target": "景元",
+   "relation": "同为仙舟将军",
+   "type": "ally",
+   "dir": "none",
+   "arrow": "none",
+   "from": null,
+   "to": null,
+   "notes": [
+    "同为仙舟将军：曜青与罗浮的两位将军。"
+   ],
+   "origins": [
+    "curated"
+   ]
+  },
+  {
+   "source": "貊泽",
+   "target": "飞霄",
+   "relation": "曜青的云骑",
+   "type": "superior",
+   "dir": "t2s",
+   "arrow": "飞霄→貊泽",
+   "from": "飞霄",
+   "to": "貊泽",
+   "notes": [
+    "曜青的云骑：貊泽是曜青将军飞霄的部下。"
+   ],
+   "origins": [
+    "curated"
+   ]
+  },
+  {
+   "source": "椒丘",
+   "target": "飞霄",
+   "relation": "曜青的策士与将军",
+   "type": "ally",
+   "dir": "none",
+   "arrow": "none",
+   "from": null,
+   "to": null,
+   "notes": [
+    "曜青的策士与将军：椒丘常为飞霄筹谋。"
+   ],
+   "origins": [
+    "curated"
+   ]
+  },
+  {
+   "source": "驭空",
+   "target": "停云",
+   "relation": "天舶司司舵与接渡使",
+   "type": "superior",
+   "dir": "s2t",
+   "arrow": "驭空→停云",
+   "from": "驭空",
+   "to": "停云",
+   "notes": [
+    "天舶司司舵与接渡使：停云在天舶司任职。"
+   ],
+   "origins": [
+    "curated"
+   ]
+  },
+  {
+   "source": "符玄",
+   "target": "青雀",
+   "relation": "太卜司太卜与卜者",
+   "type": "superior",
+   "dir": "s2t",
+   "arrow": "符玄→青雀",
+   "from": "符玄",
+   "to": "青雀",
+   "notes": [
+    "太卜司太卜与卜者：青雀名义上是太卜司的卜者。"
+   ],
+   "origins": [
+    "curated"
+   ]
+  },
+  {
+   "source": "雪衣",
+   "target": "藿藿",
+   "relation": "十王司的判官与见习判官",
+   "type": "superior",
+   "dir": "s2t",
+   "arrow": "雪衣→藿藿",
+   "from": "雪衣",
+   "to": "藿藿",
+   "notes": [
+    "十王司的判官与见习判官：藿藿由十王司判官雪衣带着办差。"
+   ],
+   "origins": [
+    "curated"
+   ]
+  },
+  {
+   "source": "寒鸦",
+   "target": "雪衣",
+   "relation": "姐妹",
+   "type": "family",
+   "dir": "none",
+   "arrow": "none",
+   "from": null,
+   "to": null,
+   "notes": [
+    "姐妹：十王司的两位判官是亲姐妹。"
+   ],
+   "origins": [
+    "curated"
+   ]
+  },
+  {
+   "source": "素裳",
+   "target": "桂乃芬",
+   "relation": "一见如故的好友",
+   "type": "ally",
+   "dir": "none",
+   "arrow": "none",
+   "from": null,
+   "to": null,
+   "notes": [
+    "一见如故的好友：云骑少女与罗浮杂技艺人成了好友。"
+   ],
+   "origins": [
+    "curated"
+   ]
+  },
+  {
+   "source": "桂乃芬",
+   "target": "开拓者·毁灭",
+   "relation": "罗浮的熟人",
+   "type": "ally",
+   "dir": "none",
+   "arrow": "none",
+   "from": null,
+   "to": null,
+   "notes": [
+    "罗浮的熟人：在罗浮与开拓者结识。"
+   ],
+   "origins": [
+    "curated"
+   ]
+  },
+  {
+   "source": "停云",
+   "target": "开拓者·毁灭",
+   "relation": "天舶司的接渡使",
+   "type": "ally",
+   "dir": "none",
+   "arrow": "none",
+   "from": null,
+   "to": null,
+   "notes": [
+    "天舶司的接渡使：负责接待初到罗浮的旅客。"
+   ],
+   "origins": [
+    "curated"
+   ]
+  },
+  {
+   "source": "白露",
+   "target": "丹恒",
+   "relation": "龙尊传承的先代与今人",
+   "type": "ally",
+   "dir": "none",
+   "arrow": "none",
+   "from": null,
+   "to": null,
+   "notes": [
+    "龙尊传承的先代与今人：现任龙尊与饮月君的转世。"
+   ],
+   "origins": [
+    "curated"
+   ]
+  },
+  {
+   "source": "罗刹",
+   "target": "景元",
+   "relation": "被罗浮羁押的异邦旅人",
+   "type": "enemy",
+   "dir": "both",
+   "arrow": "both",
+   "from": null,
+   "to": null,
+   "notes": [
+    "被罗浮羁押的异邦旅人：罗刹在罗浮的行动让云骑军损失惨重。"
+   ],
+   "origins": [
+    "curated"
+   ]
+  },
+  {
+   "source": "云璃",
+   "target": "彦卿",
+   "relation": "剑术上的好友与对手",
+   "type": "ally",
+   "dir": "none",
+   "arrow": "none",
+   "from": null,
+   "to": null,
+   "notes": [
+    "剑术上的好友与对手：朱明少女与罗浮少年在切磋中结识。"
+   ],
+   "origins": [
+    "curated"
+   ]
+  },
+  {
+   "source": "星期日",
+   "target": "加拉赫",
+   "relation": "橡木家系与猎犬家系",
+   "type": "superior",
+   "dir": "s2t",
+   "arrow": "星期日→加拉赫",
+   "from": "星期日",
+   "to": "加拉赫",
+   "notes": [
+    "橡木家系与猎犬家系：加拉赫是橡木家系的猎犬。"
+   ],
+   "origins": [
+    "curated"
+   ]
+  },
+  {
+   "source": "砂金",
+   "target": "翡翠",
+   "relation": "同为石心十人",
+   "type": "ally",
+   "dir": "none",
+   "arrow": "none",
+   "from": null,
+   "to": null,
+   "notes": [
+    "同为石心十人：战略投资部的同侪。"
+   ],
+   "origins": [
+    "curated"
+   ]
+  },
+  {
+   "source": "砂金",
+   "target": "托帕&账账",
+   "relation": "石心十人同僚",
+   "type": "ally",
+   "dir": "none",
+   "arrow": "none",
+   "from": null,
+   "to": null,
+   "notes": [
+    "石心十人同僚：同属战略投资部。"
+   ],
+   "origins": [
+    "curated"
+   ]
+  },
+  {
+   "source": "砂金",
+   "target": "真理医生",
+   "relation": "匹诺康尼事件的合作者",
+   "type": "ally",
+   "dir": "none",
+   "arrow": "none",
+   "from": null,
+   "to": null,
+   "notes": [
+    "匹诺康尼事件的合作者：真理医生受雇参与砂金的赌局。"
+   ],
+   "origins": [
+    "curated"
+   ]
+  },
+  {
+   "source": "黑天鹅",
+   "target": "花火",
+   "relation": "忆者与假面愚者",
+   "type": "ally",
+   "dir": "none",
+   "arrow": "none",
+   "from": null,
+   "to": null,
+   "notes": [
+    "忆者与假面愚者：两位在匹诺康尼各自下注的看客。"
+   ],
+   "origins": [
+    "curated"
+   ]
+  },
+  {
+   "source": "花火",
+   "target": "开拓者·毁灭",
+   "relation": "匹诺康尼的看客与主角",
+   "type": "ally",
+   "dir": "none",
+   "arrow": "none",
+   "from": null,
+   "to": null,
+   "notes": [
+    "匹诺康尼的看客与主角：花火一路观察开拓者的选择。"
+   ],
+   "origins": [
+    "curated"
+   ]
+  },
+  {
+   "source": "黑天鹅",
+   "target": "开拓者·毁灭",
+   "relation": "指尖的忆者",
+   "type": "ally",
+   "dir": "none",
+   "arrow": "none",
+   "from": null,
+   "to": null,
+   "notes": [
+    "指尖的忆者：黑天鹅从开拓者的记忆里寻找答案。"
+   ],
+   "origins": [
+    "curated"
+   ]
+  },
+  {
+   "source": "黄泉",
+   "target": "开拓者·毁灭",
+   "relation": "自灭者的同行",
+   "type": "ally",
+   "dir": "none",
+   "arrow": "none",
+   "from": null,
+   "to": null,
+   "notes": [
+    "自灭者的同行：黄泉在匹诺康尼多次出手相助。"
+   ],
+   "origins": [
+    "curated"
+   ]
+  },
+  {
+   "source": "流萤",
+   "target": "开拓者·毁灭",
+   "relation": "约定一同看海的旅伴",
+   "type": "ally",
+   "dir": "none",
+   "arrow": "none",
+   "from": null,
+   "to": null,
+   "notes": [
+    "约定一同看海的旅伴：匹诺康尼篇中最深的羁绊之一。"
+   ],
+   "origins": [
+    "curated"
+   ]
+  },
+  {
+   "source": "波提欧",
+   "target": "黄泉",
+   "relation": "同为巡海游侠",
+   "type": "ally",
+   "dir": "none",
+   "arrow": "none",
+   "from": null,
+   "to": null,
+   "notes": [
+    "同为巡海游侠：两人都在追猎公司的爪牙。"
+   ],
+   "origins": [
+    "curated"
+   ]
+  },
+  {
+   "source": "乱破",
+   "target": "波提欧",
+   "relation": "同为巡海游侠",
+   "type": "ally",
+   "dir": "none",
+   "arrow": "none",
+   "from": null,
+   "to": null,
+   "notes": [
+    "同为巡海游侠：忍侠与牛仔在匹诺康尼碰头。"
+   ],
+   "origins": [
+    "curated"
+   ]
+  },
+  {
+   "source": "银枝",
+   "target": "开拓者·毁灭",
+   "relation": "纯美骑士团的旧识",
+   "type": "ally",
+   "dir": "none",
+   "arrow": "none",
+   "from": null,
+   "to": null,
+   "notes": [
+    "纯美骑士团的旧识：银枝始终把开拓者当作值得赞美的对象。"
+   ],
+   "origins": [
+    "curated"
+   ]
+  },
+  {
+   "source": "大丽花",
+   "target": "黑天鹅",
+   "relation": "叛离流光忆庭的忆者",
+   "type": "enemy",
+   "dir": "both",
+   "arrow": "both",
+   "from": null,
+   "to": null,
+   "notes": [
+    "叛离流光忆庭的忆者：大丽花烧尽同她有关的记忆后离开忆庭。"
+   ],
+   "origins": [
+    "curated"
+   ]
+  },
+  {
+   "source": "星神★阿哈",
+   "target": "花火",
+   "relation": "「欢愉」的星神",
+   "type": "superior",
+   "dir": "s2t",
+   "arrow": "星神★阿哈→花火",
+   "from": "星神★阿哈",
+   "to": "花火",
+   "notes": [
+    "「欢愉」的星神：假面愚者追随阿哈。"
+   ],
+   "origins": [
+    "curated"
+   ]
+  },
+  {
+   "source": "星神★阿哈",
+   "target": "桑博",
+   "relation": "「欢愉」的星神",
+   "type": "superior",
+   "dir": "s2t",
+   "arrow": "星神★阿哈→桑博",
+   "from": "星神★阿哈",
+   "to": "桑博",
+   "notes": [
+    "「欢愉」的星神：桑博的所作所为皆以「欢愉」为名。"
+   ],
+   "origins": [
+    "curated"
+   ]
+  },
+  {
+   "source": "远坂凛",
+   "target": "Archer",
+   "relation": "御主与从者",
+   "type": "superior",
+   "dir": "s2t",
+   "arrow": "远坂凛→Archer",
+   "from": "远坂凛",
+   "to": "Archer",
+   "notes": [
+    "御主与从者：Archer 是凛在圣杯战争中召唤的从者。"
+   ],
+   "origins": [
+    "curated"
+   ]
+  },
+  {
+   "source": "远坂凛",
+   "target": "吉尔伽美什",
+   "relation": "圣杯战争中敌对的英灵",
+   "type": "enemy",
+   "dir": "both",
+   "arrow": "both",
+   "from": null,
+   "to": null,
+   "notes": [
+    "圣杯战争中敌对的英灵：同为圣杯战争参加者，立场对立。"
+   ],
+   "origins": [
+    "curated"
+   ]
+  },
+  {
+   "source": "吉尔伽美什",
+   "target": "Saber",
+   "relation": "圣杯战争中的宿敌",
+   "type": "enemy",
+   "dir": "both",
+   "arrow": "both",
+   "from": null,
+   "to": null,
+   "notes": [
+    "圣杯战争中的宿敌：英雄王对骑士王的执念贯穿整场战争。"
+   ],
+   "origins": [
+    "curated"
+   ]
+  },
+  {
+   "source": "Saber",
+   "target": "远坂凛",
+   "relation": "圣杯战争中结盟的从者与御主",
+   "type": "ally",
+   "dir": "none",
+   "arrow": "none",
+   "from": null,
+   "to": null,
+   "notes": [
+    "圣杯战争中结盟的从者与御主：失去御主后与凛缔结契约、并肩作战。"
+   ],
+   "origins": [
+    "curated"
+   ]
+  },
+  {
+   "source": "Archer",
+   "target": "吉尔伽美什",
+   "relation": "同为弓兵职阶的生死对手",
+   "type": "enemy",
+   "dir": "both",
+   "arrow": "both",
+   "from": null,
+   "to": null,
+   "notes": [
+    "同为弓兵职阶的生死对手：终局中两人以弓兵之名对决。"
+   ],
+   "origins": [
+    "curated"
+   ]
+  },
+  {
+   "source": "艾利欧",
+   "target": "卡芙卡",
+   "relation": "星核猎手的首领",
+   "type": "superior",
+   "dir": "s2t",
+   "arrow": "艾利欧→卡芙卡",
+   "from": "艾利欧",
+   "to": "卡芙卡",
+   "notes": [
+    "星核猎手的首领：卡芙卡按艾利欧的剧本行动。"
+   ],
+   "origins": [
+    "curated"
+   ]
+  },
+  {
+   "source": "艾利欧",
+   "target": "银狼",
+   "relation": "星核猎手的首领",
+   "type": "superior",
+   "dir": "s2t",
+   "arrow": "艾利欧→银狼",
+   "from": "艾利欧",
+   "to": "银狼",
+   "notes": [
+    "星核猎手的首领：银狼加入星核猎手时接受艾利欧的邀请。"
+   ],
+   "origins": [
+    "curated"
+   ]
+  },
+  {
+   "source": "艾利欧",
+   "target": "刃",
+   "relation": "星核猎手的首领",
+   "type": "superior",
+   "dir": "s2t",
+   "arrow": "艾利欧→刃",
+   "from": "艾利欧",
+   "to": "刃",
+   "notes": [
+    "星核猎手的首领：刃在艾利欧的剧本中扮演自己的角色。"
+   ],
+   "origins": [
+    "curated"
+   ]
+  },
+  {
+   "source": "艾利欧",
+   "target": "流萤",
+   "relation": "星核猎手的首领",
+   "type": "superior",
+   "dir": "s2t",
+   "arrow": "艾利欧→流萤",
+   "from": "艾利欧",
+   "to": "流萤",
+   "notes": [
+    "星核猎手的首领：流萤为寻找「生」的机会加入星核猎手。"
+   ],
+   "origins": [
+    "curated"
+   ]
+  },
+  {
+   "source": "钻石",
+   "target": "砂金",
+   "relation": "石心十人之首",
+   "type": "superior",
+   "dir": "s2t",
+   "arrow": "钻石→砂金",
+   "from": "钻石",
+   "to": "砂金",
+   "notes": [
+    "石心十人之首：砂金是战略投资部的高级干部。"
+   ],
+   "origins": [
+    "curated"
+   ]
+  },
+  {
+   "source": "钻石",
+   "target": "翡翠",
+   "relation": "石心十人之首",
+   "type": "superior",
+   "dir": "s2t",
+   "arrow": "钻石→翡翠",
+   "from": "钻石",
+   "to": "翡翠",
+   "notes": [
+    "石心十人之首：翡翠同为石心十人成员。"
+   ],
+   "origins": [
+    "curated"
+   ]
+  },
+  {
+   "source": "钻石",
+   "target": "托帕&账账",
+   "relation": "石心十人之首",
+   "type": "superior",
+   "dir": "s2t",
+   "arrow": "钻石→托帕&账账",
+   "from": "钻石",
+   "to": "托帕&账账",
+   "notes": [
+    "石心十人之首：托帕隶属战略投资部。"
+   ],
+   "origins": [
+    "curated"
+   ]
+  },
+  {
+   "source": "可可利亚",
+   "target": "布洛妮娅",
+   "relation": "养母与女儿",
+   "type": "family",
+   "dir": "none",
+   "arrow": "none",
+   "from": null,
+   "to": null,
+   "notes": [
+    "养母与女儿：可可利亚将布洛妮娅抚养成人。"
+   ],
+   "origins": [
+    "curated"
+   ]
+  },
+  {
+   "source": "可可利亚",
+   "target": "希儿",
+   "relation": "贝洛伯格内乱的对立者",
+   "type": "enemy",
+   "dir": "both",
+   "arrow": "both",
+   "from": null,
+   "to": null,
+   "notes": [
+    "贝洛伯格内乱的对立者：下层区地火与大守护者长期对抗。"
+   ],
+   "origins": [
+    "curated"
+   ]
+  },
+  {
+   "source": "史瓦罗",
+   "target": "克拉拉",
+   "relation": "守护克拉拉的家人",
+   "type": "family",
+   "dir": "none",
+   "arrow": "none",
+   "from": null,
+   "to": null,
+   "notes": [
+    "守护克拉拉的家人：史瓦罗把克拉拉当作自己的家人。"
+   ],
+   "origins": [
+    "curated"
+   ]
+  },
+  {
+   "source": "白珩",
+   "target": "景元",
+   "relation": "同为云上五骁",
+   "type": "ally",
+   "dir": "none",
+   "arrow": "none",
+   "from": null,
+   "to": null,
+   "notes": [
+    "同为云上五骁：五人的名字被一同写进罗浮的旧史。"
+   ],
+   "origins": [
+    "curated"
+   ]
+  },
+  {
+   "source": "白珩",
+   "target": "镜流",
+   "relation": "同为云上五骁",
+   "type": "ally",
+   "dir": "none",
+   "arrow": "none",
+   "from": null,
+   "to": null,
+   "notes": [
+    "同为云上五骁：白珩之死是镜流转向的起点。"
+   ],
+   "origins": [
+    "curated"
+   ]
+  },
+  {
+   "source": "白珩",
+   "target": "刃",
+   "relation": "同为云上五骁",
+   "type": "ally",
+   "dir": "none",
+   "arrow": "none",
+   "from": null,
+   "to": null,
+   "notes": [
+    "同为云上五骁：应星因白珩之死而踏上不归路。"
+   ],
+   "origins": [
+    "curated"
+   ]
+  },
+  {
+   "source": "白珩",
+   "target": "丹恒",
+   "relation": "同为云上五骁",
+   "type": "ally",
+   "dir": "none",
+   "arrow": "none",
+   "from": null,
+   "to": null,
+   "notes": [
+    "同为云上五骁：饮月君与白珩同为五骁。"
+   ],
+   "origins": [
+    "curated"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,32 @@
+# 依赖
+node_modules/
+.pnpm-store/
+
+# 构建产物：Cloudflare Pages 会在构建机重新生成，仓库里不放 dist
+dist/
+.vite/
+*.local
+
+# 环境变量 / 密钥（本项目目前不需要任何密钥，占位以防万一被误提交）
+.env
+.env.*
+!.env.example
+
+# 抓取缓存 / 日志（scripts/raw 里的 json 是源码数据，需要保留）
+scripts/raw/*.log
+scripts/raw/.cache/
+*.log
+npm-debug.log*
+pnpm-debug.log*
+yarn-error.log*
+
+# 编辑器 / 操作系统
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# 本地部署工具
+.wrangler/
+coverage/

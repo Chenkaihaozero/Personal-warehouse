@@ -1,0 +1,317 @@
+[
+ {
+  "id": "express",
+  "name": "星穹列车",
+  "nameEn": "Astral Express",
+  "color": "#fbbf24",
+  "crest": "✦",
+  "blurb": "沿着银轨航行的无名客。",
+  "order": 1,
+  "boardId": "express",
+  "boardName": "星穹列车",
+  "members": [
+   406,
+   407,
+   3127,
+   3124,
+   48,
+   560,
+   411,
+   3121,
+   4174,
+   4442,
+   7047,
+   7484
+  ]
+ },
+ {
+  "id": "stellar-hunters",
+  "name": "星核猎手",
+  "nameEn": "Stellaron Hunters",
+  "color": "#f472b6",
+  "crest": "✧",
+  "blurb": "被银河通缉的危险分子，按「剧本」行动。",
+  "order": 2,
+  "boardId": "herta",
+  "boardName": "黑塔空间站",
+  "members": [
+   1085,
+   1214,
+   1298,
+   2674,
+   7044,
+   7155
+  ]
+ },
+ {
+  "id": "galaxy-rangers",
+  "name": "巡海游侠",
+  "nameEn": "Galaxy Rangers",
+  "color": "#38bdf8",
+  "crest": "➶",
+  "blurb": "游走星海的侠客，惩奸除恶不问出身。",
+  "order": 3,
+  "boardId": "penacony",
+  "boardName": "匹诺康尼",
+  "members": [
+   2300,
+   2526,
+   3732,
+   6814
+  ]
+ },
+ {
+  "id": "xianzhou-alliance",
+  "name": "仙舟联盟",
+  "nameEn": "Xianzhou Alliance",
+  "color": "#5eead4",
+  "crest": "☯",
+  "blurb": "六艘仙舟结成的联盟，与「丰饶」的孽物世代相争。",
+  "order": 4,
+  "boardId": "xianzhou",
+  "boardName": "仙舟「罗浮」",
+  "members": [
+   564,
+   497,
+   412,
+   561,
+   565,
+   389,
+   1188,
+   1187,
+   1472,
+   1646,
+   1708,
+   1710,
+   1712,
+   1717,
+   1872,
+   3058,
+   3056,
+   3501,
+   3505,
+   3502,
+   4175,
+   6746
+  ]
+ },
+ {
+  "id": "genius-society",
+  "name": "天才俱乐部",
+  "nameEn": "Genius Society",
+  "color": "#a78bfa",
+  "crest": "⌘",
+  "blurb": "「智识」星神博识尊选中的天才们。",
+  "order": 5,
+  "boardId": "herta",
+  "boardName": "黑塔空间站",
+  "members": [
+   49,
+   1874,
+   4439
+  ]
+ },
+ {
+  "id": "ipc",
+  "name": "星际和平公司",
+  "nameEn": "Interastral Peace Corporation",
+  "color": "#facc15",
+  "crest": "⬢",
+  "blurb": "以信用点丈量宇宙的庞大财团。",
+  "order": 6,
+  "boardId": "penacony",
+  "boardName": "匹诺康尼",
+  "members": [
+   1709,
+   2302,
+   2675,
+   7725,
+   7935
+  ]
+ },
+ {
+  "id": "penacony-family",
+  "name": "匹诺康尼家族",
+  "nameEn": "The Family",
+  "color": "#f0abfc",
+  "crest": "✵",
+  "blurb": "经营梦境之城「匹诺康尼」的家族，信奉「同谐」。",
+  "order": 7,
+  "boardId": "penacony",
+  "boardName": "匹诺康尼",
+  "members": [
+   2086,
+   2304,
+   2524,
+   7726
+  ]
+ },
+ {
+  "id": "masked-fools",
+  "name": "假面愚者",
+  "nameEn": "Masked Fools",
+  "color": "#fb7185",
+  "crest": "☺",
+  "blurb": "追随「欢愉」星神阿哈的乐子人。",
+  "order": 8,
+  "boardId": "penacony",
+  "boardName": "匹诺康尼",
+  "members": [
+   2087,
+   6747
+  ]
+ },
+ {
+  "id": "garden-of-recollection",
+  "name": "流光忆庭",
+  "nameEn": "Garden of Recollection",
+  "color": "#c4b5fd",
+  "crest": "❂",
+  "blurb": "收藏记忆的忆者们，替「记忆」星神保存宇宙的过往。",
+  "order": 9,
+  "boardId": "penacony",
+  "boardName": "匹诺康尼",
+  "members": [
+   2082
+  ]
+ },
+ {
+  "id": "intelligentsia-guild",
+  "name": "博识学会",
+  "nameEn": "Intelligentsia Guild",
+  "color": "#7dd3fc",
+  "crest": "⚕",
+  "blurb": "以「知识应当流通」为信条的学者组织。",
+  "order": 10,
+  "boardId": "penacony",
+  "boardName": "匹诺康尼",
+  "members": [
+   1873
+  ]
+ },
+ {
+  "id": "knights-of-beauty",
+  "name": "纯美骑士团",
+  "nameEn": "Knights of Beauty",
+  "color": "#fca5a5",
+  "crest": "❀",
+  "blurb": "追寻「纯美」伊德莉拉的骑士。",
+  "order": 11,
+  "boardId": "penacony",
+  "boardName": "匹诺康尼",
+  "members": [
+   1714
+  ]
+ },
+ {
+  "id": "cremators",
+  "name": "焚化工",
+  "nameEn": "Cremators",
+  "color": "#fb923c",
+  "crest": "✹",
+  "blurb": "燃烧「记忆」，在毁灭与遗忘之间行走。",
+  "order": 12,
+  "boardId": "penacony",
+  "boardName": "匹诺康尼",
+  "members": [
+   6025
+  ]
+ },
+ {
+  "id": "belobog",
+  "name": "贝洛伯格",
+  "nameEn": "Belobog",
+  "color": "#a5d8ff",
+  "crest": "❄",
+  "blurb": "永冻城邦雅利洛-VI 的人们。",
+  "order": 13,
+  "boardId": "belobog",
+  "boardName": "贝洛伯格",
+  "members": [
+   453,
+   76,
+   424,
+   414,
+   46,
+   422,
+   386,
+   317,
+   423,
+   1325,
+   1543
+  ]
+ },
+ {
+  "id": "herta-station",
+  "name": "空间站「黑塔」",
+  "nameEn": "Herta Space Station",
+  "color": "#67e8f9",
+  "crest": "◎",
+  "blurb": "黑塔的私人实验室与它的科员们。",
+  "order": 14,
+  "boardId": "herta",
+  "boardName": "黑塔空间站",
+  "members": [
+   380,
+   52
+  ]
+ },
+ {
+  "id": "chrysos-heirs",
+  "name": "翁法罗斯黄金裔",
+  "nameEn": "Chrysos Heirs",
+  "color": "#fcd34d",
+  "crest": "☀",
+  "blurb": "执掌十二枚火种、踏上逐火之旅的半神。",
+  "order": 15,
+  "boardId": "amphoreus",
+  "boardName": "翁法罗斯",
+  "members": [
+   4440,
+   5107,
+   5108,
+   4917,
+   5109,
+   4608,
+   4609,
+   4916,
+   5737,
+   5582,
+   5583,
+   5851,
+   5736
+  ]
+ },
+ {
+  "id": "erxiang-residents",
+  "name": "二相乐园",
+  "nameEn": "Twin-Faced Paradise",
+  "color": "#c084fc",
+  "crest": "◉",
+  "blurb": "乐园的原住民与它的直播观众。",
+  "order": 16,
+  "boardId": "erxiang",
+  "boardName": "二相乐园",
+  "members": [
+   7045,
+   8099
+  ]
+ },
+ {
+  "id": "fate-collab",
+  "name": "Fate 联动线",
+  "nameEn": "Fate Collaboration",
+  "color": "#ef4444",
+  "crest": "⚔",
+  "blurb": "来自宇宙之外的英灵与魔术师。",
+  "order": 17,
+  "boardId": "fate",
+  "boardName": "Fate 联动线",
+  "members": [
+   5338,
+   5339,
+   7499,
+   7500
+  ]
+ }
+]
